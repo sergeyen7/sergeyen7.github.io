@@ -2,6 +2,21 @@
 layout: default
 ---
 
+# What is trend following?
+
+Trend following is an investment strategy that aims to capitalize on the directional movement, or trends, in financial markets. Followers of this strategy believe that assets tend to move in persistent directions over time. 
+
+Trend followers typically buy or sell assets based on the direction of the prevailing trend, attempting to ride the trend for as long as possible to maximize profits. 
+
+Trend following is characterized by its systematic and disciplined approach, with practitioners aiming to minimize losses during periods of market volatility while capturing gains during trend movements.
+
+This approach often involves using technical analysis tools, such as moving averages, different price channels, Bollinger bands, Supertrend to identify and confirm trends. 
+
+Different researches say that they all give approximately the same results if you choose approximately the same settings.
+
+Therefore, any of these tools can be used.
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
