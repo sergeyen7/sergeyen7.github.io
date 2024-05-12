@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Donchian quest research
+description: Trend following in crypto.
 ---
 
 # What is trend following?
