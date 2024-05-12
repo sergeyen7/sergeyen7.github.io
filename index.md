@@ -43,6 +43,8 @@ I coded this as a script in Tradingview:
 
 [Vault Donchian Quest Research](https://app.hyperliquid.xyz/vaults/0x54094fd5077de413017b5e83da0b587043b55144).
 
+* * *
+
 # Script description
 
 Strategy uses two channels. One channel - for opening trades. Second channel - for closing. Channel is similar to Donchian channel, but uses Close prices (not High/Low). 
