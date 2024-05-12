@@ -20,6 +20,18 @@ Therefore, any of these tools can be used.
 # Black Box Trend Following
 
 
+
+
+Idea of this strategy was proposed in article "Black Box Trend Following - Lifting the Veil". Authors: Nigol Koulajian and Paul Czkwianianc. The authors of this paper are principals of Quest Partners LLC, trading company manages $2.3 billion in assets.
+
+Strategy uses channel similar to Donchian Channel, but uses Close prices (not High/Low). Article describes 50 days channel. I use 20 days:
+* Open Long: If last Close = max Close for 20 closes.
+* Open Short: If last Close = min Close for 20 closes.
+
+Script in Tradingview:
+
+[Tradingview](https://www.tradingview.com/script/YPQwKNF8-Donchian-Quest-Research/).
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
