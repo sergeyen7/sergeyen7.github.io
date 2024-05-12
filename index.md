@@ -45,18 +45,30 @@ You can invest your money in my Hyperliquid vault - if you clearly understand th
 
 # Script description
 
-Strategy uses two channels. One channel - for opening trades. Second channel - for closing. Channel is similar to Donchian channel, but uses Close prices (not High/Low). Strategy waits for beginning of trend - when price breakout of channel. Default length of both channels = 50 candles.
+Strategy uses two channels. One channel - for opening trades. Second channel - for closing. Channel is similar to Donchian channel, but uses Close prices (not High/Low). 
+***
+Strategy waits for beginning of trend - when price breakout of channel. Default length of both channels = 50 candles.
 
 Conditions of trading:
 
 * Open Long: If last Close = max Close for 50 closes.
 * Close Long: If last Close = min Close for 50 closes.
-- Open Short: If last Close = min Close for 50 closes.
-- Close Short: If last Close = max Close for 50 closes.
+* Open Short: If last Close = min Close for 50 closes.
+* Close Short: If last Close = max Close for 50 closes.
+***
+
+Color of lines:
+
+- black - channel for opening trade.
+- red - channel for closing trade.
+- yellow - entry price.
+- fuchsia - stoploss and breakeven.
+- vertical green - go Long.
+- vertical red - go Short.
+- vertical gray - close in end, don't trade anymore.
 
 
-
-
+* * *
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
