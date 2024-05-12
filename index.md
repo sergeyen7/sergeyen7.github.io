@@ -28,9 +28,18 @@ Strategy uses channel similar to Donchian Channel, but uses Close prices (not Hi
 * Open Long: If last Close = max Close for 20 closes.
 * Open Short: If last Close = min Close for 20 closes.
 
-Script in Tradingview:
+I coded this as a script in Tradingview:
 
 [Tradingview](https://www.tradingview.com/script/YPQwKNF8-Donchian-Quest-Research/).
+
+# How to use it
+
+You can use it for your trading as you wish.
+My referral link for Hyperliquid exchange:
+[app.hyperliquid.xyz/join/SERGEYEN](app.hyperliquid.xyz/join/SERGEYEN).
+
+You can invest your money in my Hyperliquid vault - if you clearly understand theory of trend following in next chapters:
+[app.hyperliquid.xyz/join/SERGEYEN](app.hyperliquid.xyz/join/SERGEYEN).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
