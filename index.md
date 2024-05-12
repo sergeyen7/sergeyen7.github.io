@@ -67,8 +67,71 @@ Color of lines:
 - vertical red - go Short.
 - vertical gray - close in end, don't trade anymore.
 
+* * *
+
+Order size calculated with ATR and volatility.
+
+You can't trade 1 contract in BTC and 1 contract in XRP - for example. They have different price and volatility, so 1 contract BTC not equal 1 contract XRP.
+
+Script uses universal calculation for every market. It is based on:
+- Risk - USD sum you ready to loss in one trade. It calculated as percent of Equity.
+- ATR indicator - measurement of volatility.
+
+With default setting your stoploss = 0.5 percent of equity:
+
+- If initial capital is 1000 USD and used parameter "Permit stop" - loss will be 5 USD (0.5 % of equity).
+- If your Equity rises to 2000 USD and used parameter "Permit stop"- loss will be 10 USD (0.5 % of Equity).
 
 * * *
+This Risk works only if you enable “Permit stop” parameter in Settings.
+
+If this parameter disabled - strategy works as reversal strategy:
+⁃ If close Long - channel border works as stoploss and momentarily go Short.
+⁃ If close Short - channel border works as stoploss and momentarily go Long.
+
+Channel borders changed dynamically. So sometime your loss will be greater than ‘Risk %’. Sometime - less than ‘Risk %’.
+
+If this parameter enabled - maximum loss always equal to 'Risk %'. This parameter also include breakeven: if profit % = Risk %, then move stoploss to entry price.
+
+* * *
+
+Like all trend following strategies - it works only in trend conditions. If no trend - slowly bleeding. There is no special additional indicator to filter trend/notrend. You need to trade every signal of strategy.
+
+Strategy gives many losses:
+⁃ 30 % of trades will close with profit.
+⁃ 70 % of trades will close with loss.
+⁃ But profit from 30% will be much greater than loss from 70 %.
+
+Your task - patiently wait for it and don't use risky setting for position sizing.
+
+* * *
+
+Recommended timeframe - Daily.
+
+* * *
+Trend can vary in lengths. Selecting length of channels determine which trend you will be hunting:
+⁃ 20/10 - from several days to several weeks.
+⁃ 20/20 or 50/20 - from several weeks to several months.
+⁃ 50/50 or 100/50 or 100/100 - from several months to several years.
+* * *
+Inputs (Settings):
+
+- Length: length of channel for trade opening/closing. You can choose 20/10, 20/20, 50/20, 50/50, 100/50, 100/100. Default value: 50/50.
+
+- Permit Long / Permit short: Longs are most profitable for this strategy. You can disable Shorts and enable Longs only. Default value: permit all directions.
+
+- Risk % of Equity: for position sizing used Equity percent. Don't use values greater than 5 % - it's risky. Default value: 0.5%.
+
+⁃ ATR multiplier: this multiplier moves stoploss up or down. Big multiplier = small size of order, small profit, stoploss far from entry, low chance of stoploss. Small multiplier = big size of order, big profit, stop near entry, high chance of stoploss. Default value: 2.
+
+- ATR length: number of candles to calculate ATR indicator. It used for order size and stoploss. Default value: 20.
+
+- Close in end - to close active trade in the end (and don't trade anymore) or leave it open. You can see difference in Strategy Tester. Default value: don’t close.
+
+- Permit stop: use stop or go reversal. Default value: without stop, reversal strategy.
+
+* * *
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
