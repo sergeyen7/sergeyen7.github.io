@@ -136,6 +136,32 @@ Inputs (Settings):
 
 * Permit stop: use stop or go reversal. Default value: without stop, reversal strategy.
 
+# Hyperliquid
+
+Hyperliquid is an order book perpetual futures DEX. The DEX runs on the Hyperliquid L1, a custom blockchain that is performant enough to operate the whole exchange – every operation happens transparently on-chain with block latency <1 second.
+
+It uses Arbitrum $USDC for deposits/withdrawals. Cost of deposit = cost of gas ($0.08 - $0.10). Cost of withdraw = 1 USDC (was 2 USDC). After deposit all operations executed on 'inside' L1 blockchain. No lock-up period, withdraw possible any time.
+
+Mainnet alpha is live. For trade you need:
+* email or any EVM wallet (e.g., Rabby, MetaMask, WalletConnect, Coinbase Wallet).
+* ETH on Arbitrum for deposit's gas. 
+* USDC on Arbitrum for deposit.
+
+You can trade more than 100 assets on the exchange: $btc, $eth, regular altcoins, defi, memes. New coins are constantly being added. Prices based on oracles prices from different CEXs and DEXs. Leverages from 3x to 50x.
+
+Interesting function - 'vaults'. It's like 'pools' on other DEXs, but 'vault leader' can trade funds of this vault. Normal perpetual trade - longs, shorts. Normal liquidations if something go wrong. If trade is profitable - leader receive a 10% profit share for managing the vault. As always: Trading is inherently risky, and vaults’ past performance is not a guarantee of future returns. Vaults have a lock-up period of 1 day.
+
+Exchange has a trading API, which has the most necessary functions: receive data, open a trade, close a trade, place orders. This API does not have some rarely used functions, such as changing leverage. Python SDK shows examples of all API commands.
+
+Disadvantages of Hyperliquid:
+* sometime relatively high funding rates. They are higher than on the CEXs.
+* sometime relatively low liquidity on some coins. Whales only begin discover this DEX.
+* for high speed work all servers should be near each other. Maybe in a single zone of AWS (or similar provider).
+* counterparty risk - anonymous developers can anytime go away with money.
+
+Main advantage of Hyperliquid:
+* it works on smartcontracts.
+
 # Contacts
 
 [Twitter](https://twitter.com/sergeyen777).
