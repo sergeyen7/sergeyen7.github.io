@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Donchian quest research
+title: Donchian Quest Research
 description: Trend following in crypto.
 ---
 
