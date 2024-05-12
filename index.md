@@ -149,9 +149,11 @@ Mainnet alpha is live. For trade you need:
 
 You can trade more than 100 assets on the exchange: btc, eth, regular altcoins, defi, memes. New coins are constantly being added. Prices based on oracles prices from different CEXs and DEXs. Leverages from 3x to 50x.
 
-Interesting function - 'vaults'. It's like 'pools' on other DEXs, but 'vault leader' can trade funds of this vault. Normal perpetual trade - longs, shorts. Normal liquidations if something go wrong. If trade is profitable - leader receive a 10% profit share for managing the vault. As always: Trading is inherently risky, and vaults’ past performance is not a guarantee of future returns. 
+Interesting function - 'vaults'. It's like 'pools' on other DEXs, but 'vault leader' can trade funds of this vault. Normal perpetual trade - longs, shorts. Normal liquidations if something go wrong. If trade is profitable - leader receive a 10% profit share for managing the vault. 
 
-> Vaults have a lock-up period of 1 day.
+> As always: Trading is inherently risky, and vaults’ past performance is not a guarantee of future returns. 
+
+Vaults have a lock-up period of 1 day.
 
 Exchange has a trading API, which has the most necessary functions: receive data, open a trade, close a trade, place orders. This API does not have some rarely used functions, such as changing leverage. Python SDK shows examples of all API commands.
 
