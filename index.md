@@ -33,7 +33,7 @@ You can use it for your trading as you wish - on any exchange, spot or perpetual
 
 You can invest your money in my Hyperliquid vault - if you clearly understand theory of trend following in next chapters:
 
-[app.hyperliquid.xyz/join/SERGEYEN](app.hyperliquid.xyz/join/SERGEYEN).
+[Vault Donchian Quest Research](https://app.hyperliquid.xyz/vaults/0x54094fd5077de413017b5e83da0b587043b55144).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
