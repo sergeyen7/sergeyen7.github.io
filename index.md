@@ -37,7 +37,7 @@ I coded this as a script in Tradingview:
 
 You can use it for your trading as you wish - on any exchange, spot or perpetual futures. My referral link for Hyperliquid exchange:
 
-[app.hyperliquid.xyz/join/SERGEYEN](app.hyperliquid.xyz/join/SERGEYEN).
+[app.hyperliquid.xyz/join/SERGEYEN](https://app.hyperliquid.xyz/join/SERGEYEN).
 
 You can invest your money in my Hyperliquid vault - if you clearly understand theory of trend following in next chapters:
 
