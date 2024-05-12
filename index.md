@@ -41,7 +41,7 @@ I coded this as a script in Tradingview:
   
 * * *
 
-* You can invest your money in my Hyperliquid vault - if you clearly understand theory of trend following in next chapters:
+* You can invest your money in my Hyperliquid vault - if you clearly understand theory of trend following described in next chapters:
 
      [Vault Donchian Quest Research](https://app.hyperliquid.xyz/vaults/0x54094fd5077de413017b5e83da0b587043b55144).
 
