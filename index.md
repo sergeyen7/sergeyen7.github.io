@@ -27,6 +27,12 @@ I coded this as a script in Tradingview:
 
 [Tradingview](https://www.tradingview.com/script/YPQwKNF8-Donchian-Quest-Research/).
 
+* * *
+
+![Script on Tradingview](/images/BTCUSD.png)
+
+* * *
+
 # How to use it
 
 You can use it for your trading as you wish - on any exchange, spot or perpetual futures. My referral link for Hyperliquid exchange:
