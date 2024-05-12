@@ -10,11 +10,14 @@ Trend following is an investment strategy that aims to capitalize on the directi
 
 Trend following is characterized by its systematic and disciplined approach, with practitioners aiming to minimize losses during periods of market volatility while capturing gains during trend movements.
 
-This approach often involves using technical analysis tools, such as moving averages, different price channels, Bollinger bands, Supertrend to identify and confirm trends. 
+This approach involves using technical analysis tools to identify and confirm trends: moving averages, different types of price channels, Bollinger bands, Supertrend and so on. 
 
 Different researches say that they all give approximately the same results if you choose approximately the same settings.
 
 Therefore, any of these tools can be used.
+
+
+# Black Box Trend Following
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
