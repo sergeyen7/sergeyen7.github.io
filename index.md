@@ -19,14 +19,7 @@ Therefore, any of these tools can be used.
 
 # Black Box Trend Following
 
-
-
-
 Idea of this strategy was proposed in article "Black Box Trend Following - Lifting the Veil". Authors: Nigol Koulajian and Paul Czkwianianc. The authors of this paper are principals of Quest Partners LLC, trading company manages $2.3 billion in assets.
-
-Strategy uses channel similar to Donchian Channel, but uses Close prices (not High/Low). Article describes 50 days channel. I use 20 days:
-* Open Long: If last Close = max Close for 20 closes.
-* Open Short: If last Close = min Close for 20 closes.
 
 I coded this as a script in Tradingview:
 
@@ -34,11 +27,12 @@ I coded this as a script in Tradingview:
 
 # How to use it
 
-You can use it for your trading as you wish.
-My referral link for Hyperliquid exchange:
+You can use it for your trading as you wish - on any exchange, spot or perpetual futures. My referral link for Hyperliquid exchange:
+
 [app.hyperliquid.xyz/join/SERGEYEN](app.hyperliquid.xyz/join/SERGEYEN).
 
 You can invest your money in my Hyperliquid vault - if you clearly understand theory of trend following in next chapters:
+
 [app.hyperliquid.xyz/join/SERGEYEN](app.hyperliquid.xyz/join/SERGEYEN).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
