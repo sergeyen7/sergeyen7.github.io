@@ -43,6 +43,21 @@ You can invest your money in my Hyperliquid vault - if you clearly understand th
 
 [Vault Donchian Quest Research](https://app.hyperliquid.xyz/vaults/0x54094fd5077de413017b5e83da0b587043b55144).
 
+# Script description
+
+Strategy uses two channels. One channel - for opening trades. Second channel - for closing. Channel is similar to Donchian channel, but uses Close prices (not High/Low). Strategy waits for beginning of trend - when price breakout of channel. Default length of both channels = 50 candles.
+
+Conditions of trading:
+
+* Open Long: If last Close = max Close for 50 closes.
+* Close Long: If last Close = min Close for 50 closes.
+- Open Short: If last Close = min Close for 50 closes.
+- Close Short: If last Close = max Close for 50 closes.
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
