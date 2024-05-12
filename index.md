@@ -35,11 +35,11 @@ I coded this as a script in Tradingview:
 
 # How to use it
 
-You can use it for your trading as you wish - on any exchange, spot or perpetual futures. My referral link for Hyperliquid exchange:
+1. You can use it for your trading as you wish - on any exchange, spot or perpetual futures. My referral link for Hyperliquid exchange:
 
 [app.hyperliquid.xyz/join/SERGEYEN](https://app.hyperliquid.xyz/join/SERGEYEN).
 
-You can invest your money in my Hyperliquid vault - if you clearly understand theory of trend following in next chapters:
+2. You can invest your money in my Hyperliquid vault - if you clearly understand theory of trend following in next chapters:
 
 [Vault Donchian Quest Research](https://app.hyperliquid.xyz/vaults/0x54094fd5077de413017b5e83da0b587043b55144).
 
