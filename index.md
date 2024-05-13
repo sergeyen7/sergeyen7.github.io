@@ -5,10 +5,15 @@ description: Trend following in crypto.
 ---
 # Table of contents
 * [What is trend following?](#what-is-trend-following)
+  
 * [Idea and script](#idea-and-script)
+  
 * [How to use it](#how-to-use-it)
+  
 * [Script description](#script-description)
+  
 * [Hyperliquid](#hyperliquid)
+  
 * [Contacts](#contacts)
 
 # What is trend following?
