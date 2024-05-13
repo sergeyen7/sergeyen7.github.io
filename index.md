@@ -22,7 +22,7 @@ description: Do trend following strategy works in crypto?
 
 # Experiment
 
-I want to test crypto trend following strategy. 
+I want to test **crypto trend following strategy**. 
 
 This type of strategies shows good results in TradFI: commodities, stocks, forex. 
 
