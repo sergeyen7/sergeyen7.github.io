@@ -49,13 +49,13 @@ Richard Donchian was a financial pioneer and is often referred to as the "father
 
 Donchian is perhaps most famous for his work in developing the concept of trend following systems and for establishing some of the first systematic trading strategies.
 
-One of his significant contributions to the field of technical analysis is the creation of the Donchian Channels, which are a set of lines typically used to identify potential breakouts or breakdowns in a trading instrument's price movements.
+One of his significant contributions to the field of technical analysis is **the creation of the Donchian Channels**, which are a set of lines typically used to identify potential breakouts or breakdowns in a trading instrument's price movements.
 
 The channel breakout concept he proposed was used by many traders.
 
 Another Richard, commodities speculator Richard J. Dennis, used channels in his famous Turtles experiment.
 
-Similar idea was proposed in article “Black Box Trend Following - Lifting the Veil”. Authors: Nigol Koulajian and Paul Czkwianianc. The authors of this paper are principals of Quest Partners LLC, trading company manages $2.3 billion in assets.
+Similar idea was proposed in article **“Black Box Trend Following - Lifting the Veil”**. Authors: Nigol Koulajian and Paul Czkwianianc. The authors of this paper are principals of Quest Partners LLC, trading company manages $2.3 billion in assets.
 
 I coded this as a script in Tradingview:
 
@@ -84,7 +84,9 @@ I coded this as a script in Tradingview:
 # Script description
 
 Strategy uses two channels. One channel - for opening trades. Second channel - for closing. Channel is similar to Donchian channel, but uses Close prices (not High/Low). 
+
 * * *
+
 Strategy waits for beginning of trend - when price breakout of channel. Default length of both channels = 50 candles.
 
 Conditions of trading:
@@ -122,6 +124,7 @@ With default setting your stoploss = 0.5 percent of equity:
 - If your Equity rises to 2000 USD and used parameter "Permit stop"- loss will be 10 USD (0.5 % of Equity).
 
 * * *
+
 This Risk works only if you enable “Permit stop” parameter in Settings.
 
 If this parameter disabled - strategy works as reversal strategy:
