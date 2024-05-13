@@ -114,6 +114,8 @@ If this parameter enabled - maximum loss always equal to 'Risk %'. This paramete
 
 > Like all trend following strategies - it works only in trend conditions. If no trend - slowly bleeding.
 
+* * *
+
 There is no special additional indicator to filter trend/notrend. You need to trade every signal of strategy.
 
 Strategy gives many losses:
