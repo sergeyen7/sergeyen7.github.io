@@ -142,6 +142,14 @@ Inputs (Settings):
 
 * Length: length of channel for trade opening/closing. You can choose 20/10, 20/20, 50/20, 50/50, 100/50, 100/100. Default value: 50/50.
 
+* Permit stop: use stop or go reversal. Default value: without stop, reversal strategy.
+
+* Orders number: use single order or divide it to several orders.
+
+* Use additional orders?: if trade is profitable - use additional orders to increase position size.
+
+* Cost %: If enabled "Use additional": Maximal position cost (size * entry) in percents of Equity.
+
 * Permit Long / Permit short: Longs are most profitable for this strategy. You can disable Shorts and enable Longs only. Default value: permit all directions.
 
 * Risk % of Equity: for position sizing used Equity percent. Don't use values greater than 5 % - it's risky. Default value: 0.5%.
@@ -150,9 +158,10 @@ Inputs (Settings):
 
 * ATR length: number of candles to calculate ATR indicator. It used for order size and stoploss. Default value: 20.
 
-* Close in end - to close active trade in the end (and don't trade anymore) or leave it open. You can see difference in Strategy Tester. Default value: don’t close.
+* Close in end: to close active trade in the end (and don't trade anymore) or leave it open. You can see difference in Strategy Tester. Default value: don’t close.
 
-* Permit stop: use stop or go reversal. Default value: without stop, reversal strategy.
+* Show info label: show informational label with calculations: ATR, order size, prices.
+
 
 # Hyperliquid
 
