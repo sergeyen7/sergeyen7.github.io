@@ -34,7 +34,11 @@ I will test it in real trading.
 
 Trend following is an trading strategy that aims to capitalize on the directional movement, or trends, in financial markets. Followers of this strategy believe that assets tend to move in persistent directions over time. 
 
+* * *
+
 > **Trend followers typically buy or sell assets based on the direction of the prevailing trend, attempting to ride the trend for as long as possible to maximize profits.**
+
+* * *
 
 Trend following is characterized by its systematic and disciplined approach, with practitioners aiming to minimize losses during periods of market volatility while capturing gains during trend movements.
 
@@ -203,7 +207,11 @@ You can trade more than 100 assets on the exchange: btc, eth, regular altcoins, 
 
 Interesting function - 'vaults'. It's like 'pools' on other DEXs, but 'vault leader' can trade funds of this vault. Normal perpetual trade - longs, shorts. Normal liquidations if something go wrong. If trade is profitable - leader receive a 10% profit share for managing the vault. 
 
-> As always: Trading is inherently risky, and vaults’ past performance is not a guarantee of future returns. 
+* * *
+
+> **As always: Trading is inherently risky, and vaults’ past performance is not a guarantee of future returns.**
+
+* * *
 
 Vaults have a lock-up period of 1 day.
 
