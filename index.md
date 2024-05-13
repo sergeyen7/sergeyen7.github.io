@@ -47,7 +47,7 @@ I coded this as a script in Tradingview:
 
 # How to use it
 
-* You can use it for your trading as you wish - on any exchange, spot or perpetual futures. My referral link for Hyperliquid exchange:
+* You can use it for your trading as you wish - on any exchange with spot or perpetual futures. My referral link for Hyperliquid exchange:
 
      [app.hyperliquid.xyz/join/SERGEYEN](https://app.hyperliquid.xyz/join/SERGEYEN).
   
