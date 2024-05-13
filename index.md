@@ -57,7 +57,7 @@ One of his significant contributions to the field of technical analysis is **the
 
 The channel breakout concept he proposed was used by many traders.
 
-Another Richard, commodities speculator Richard J. Dennis, used channels in his famous Turtles experiment.
+Another Richard, commodities speculator Richard Dennis, used channels in his famous Turtles training and made hundreds of millions of dollars.
 
 Similar idea was proposed in article **“Black Box Trend Following - Lifting the Veil”**. Authors: Nigol Koulajian and Paul Czkwianianc. The authors of this paper are principals of Quest Partners LLC, trading company manages $2.3 billion in assets.
 
