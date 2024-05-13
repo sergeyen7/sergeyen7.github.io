@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Donchian Quest Research
-description: Trend following in crypto.
+description: Experiment: Do trend following strategy works in crypto?
 ---
 # Table of contents
 * [What is trend following?](#what-is-trend-following)
