@@ -13,6 +13,8 @@ description: Do trend following strategy works in crypto?
 * [Script description](#script-description)
   
 * [Crypto DEX Hyperliquid](#crypto-dex-hyperliquid)
+
+* [Vault monthly results](#vault-monthly-results)
   
 * [Contacts](#contacts)
 
