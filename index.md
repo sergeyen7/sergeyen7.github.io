@@ -19,7 +19,9 @@ Different researches say that all this tools give approximately the same results
 
 # Black Box Trend Following
 
-Idea of this strategy was proposed in article "Black Box Trend Following - Lifting the Veil". Authors: Nigol Koulajian and Paul Czkwianianc. The authors of this paper are principals of Quest Partners LLC, trading company manages $2.3 billion in assets.
+Idea of this strategy was proposed in article "Black Box Trend Following - Lifting the Veil". 
+
+Authors: Nigol Koulajian and Paul Czkwianianc. The authors of this paper are principals of Quest Partners LLC, trading company manages $2.3 billion in assets.
 
 I coded this as a script in Tradingview:
 
