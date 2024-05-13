@@ -14,7 +14,7 @@ Trend following is characterized by its systematic and disciplined approach, wit
 
 This approach involves using technical analysis tools to identify and confirm trends: moving averages, different types of price channels, Bollinger bands, Supertrend and so on. 
 
-Different researches say that they all give approximately the same results if you choose approximately the same settings.
+Different researches say that all this tools give approximately the same results if you choose approximately the same settings.
 
 Therefore, any of these tools can be used.
 
