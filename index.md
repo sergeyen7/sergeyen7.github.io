@@ -65,25 +65,17 @@ I coded this as a script in Tradingview:
 
 [Tradingview](https://www.tradingview.com/script/YPQwKNF8-Donchian-Quest-Research/).
 
-* * *
-
 ![Script on Tradingview](/images/BTCUSD.png)
-
-* * *
 
 # How to use it
 
 * You can use script for your trading as you wish - on any exchange with spot or perpetual futures. My referral link for Hyperliquid exchange:
 
      [app.hyperliquid.xyz/join/SERGEYEN](https://app.hyperliquid.xyz/join/SERGEYEN).
-  
-* * *
 
 * You can invest your money in my Hyperliquid vault - if you clearly understand theory of trend following described in next chapters:
 
      [Vault Donchian Quest Research](https://app.hyperliquid.xyz/vaults/0x54094fd5077de413017b5e83da0b587043b55144).
-
-* * *
 
 # Script description
 
