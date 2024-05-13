@@ -201,6 +201,16 @@ Disadvantages of Hyperliquid:
 Main advantage of Hyperliquid:
 * it works on smartcontracts.
 
+# Vault monthly results
+
+|    Date    |  Equity (USD)  |  Pnl (30 days) |
+|:-----------|:---------------|:---------------|
+|   Jan 2024 |           5000 |              0 |
+| 1 Feb 2024 |           4755 |           -245 |
+| 1 Mar 2024 |           7295 |           2531 |
+| 1 Apr 2024 |           8887 |            830 |
+| 1 May 2024 |           5629 |          -3994 |
+
 # Contacts
 
 [Twitter](https://twitter.com/sergeyen777).
