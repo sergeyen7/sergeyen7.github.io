@@ -144,7 +144,7 @@ Strategy gives many losses:
 * 70 % of trades will close with loss.
 * But profit from 30% will be much greater than loss from 70 %.
 
-Your task - patiently wait for it and don't use risky setting for position sizing.
+Your task - patiently wait for trend and don't use risky setting for position sizing.
 
 * * *
 
@@ -167,7 +167,7 @@ Inputs (Settings):
 
 * Orders number: use single order or divide it to several orders.
 
-* Use additional orders?: if trade is profitable - use additional orders to increase position size.
+* Use additional orders: if trade is profitable - use additional orders to increase position size.
 
 * Cost %: If enabled "Use additional": Maximal position cost (size * entry) in percents of Equity.
 
