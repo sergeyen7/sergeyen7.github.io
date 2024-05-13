@@ -31,9 +31,17 @@ Different researches say that all this tools give approximately the same results
 
 # Idea and script
 
-Idea of this strategy was proposed in article "Black Box Trend Following - Lifting the Veil". 
+Richard Donchian was a financial pioneer and is often referred to as the "father of trend following." 
 
-Authors: Nigol Koulajian and Paul Czkwianianc. The authors of this paper are principals of Quest Partners LLC, trading company manages $2.3 billion in assets.
+Donchian is perhaps most famous for his work in developing the concept of trend following systems and for establishing some of the first systematic trading strategies.
+
+One of his significant contributions to the field of technical analysis is the creation of the Donchian Channels, which are a set of lines typically used to identify potential breakouts or breakdowns in a trading instrument's price movements.
+
+The channel breakout concept he proposed was used by many traders.
+
+Another Richard, commodities speculator Richard J. Dennis, used channels in his famous Turtles experiment.
+
+Similar idea was proposed in article “Black Box Trend Following - Lifting the Veil”. Authors: Nigol Koulajian and Paul Czkwianianc. The authors of this paper are principals of Quest Partners LLC, trading company manages $2.3 billion in assets.
 
 I coded this as a script in Tradingview:
 
