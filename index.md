@@ -3,7 +3,7 @@ layout: default
 title: Donchian Quest Research
 description: Trend following in crypto.
 ---
-
+[hyper](#hyperliquid)
 # What is trend following?
 
 Trend following is an investment strategy that aims to capitalize on the directional movement, or trends, in financial markets. Followers of this strategy believe that assets tend to move in persistent directions over time. 
