@@ -137,7 +137,7 @@ If this parameter enabled - maximum loss always equal to 'Risk %'. This paramete
 
 * * *
 
-> Like all trend following strategies - it works only in trend conditions. If no trend - slowly bleeding.
+> **Like all trend following strategies - it works only in trend conditions. If no trend - slowly bleeding.**
 
 * * *
 
