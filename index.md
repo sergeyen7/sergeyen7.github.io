@@ -3,7 +3,14 @@ layout: default
 title: Donchian Quest Research
 description: Trend following in crypto.
 ---
-[hyper](#hyperliquid)
+# Table of contents
+* [What is trend following?](#what-is-trend-following)
+* [Idea and script](#idea-and-script)
+* [How to use it](#how-to-use-it)
+* [Script description](#script-description)
+* [Hyperliquid](#hyperliquid)
+* [Contacts](#contacts)
+
 # What is trend following?
 
 Trend following is an investment strategy that aims to capitalize on the directional movement, or trends, in financial markets. Followers of this strategy believe that assets tend to move in persistent directions over time. 
@@ -17,7 +24,7 @@ This approach involves using technical analysis tools to identify and confirm tr
 Different researches say that all this tools give approximately the same results if you choose approximately the same settings. Therefore, any of these tools can be used.
 
 
-# Black Box Trend Following
+# Idea and script
 
 Idea of this strategy was proposed in article "Black Box Trend Following - Lifting the Veil". 
 
