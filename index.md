@@ -12,13 +12,13 @@ description: Do trend following strategy works in crypto?
   
 * [Script description](#script-description)
   
-* [Hyperliquid](#hyperliquid)
+* [Crypto DEX Hyperliquid](#crypto-dex-hyperliquid)
   
 * [Contacts](#contacts)
 
 # What is trend following?
 
-Trend following is an investment strategy that aims to capitalize on the directional movement, or trends, in financial markets. Followers of this strategy believe that assets tend to move in persistent directions over time. 
+Trend following is an trading strategy that aims to capitalize on the directional movement, or trends, in financial markets. Followers of this strategy believe that assets tend to move in persistent directions over time. 
 
 > Trend followers typically buy or sell assets based on the direction of the prevailing trend, attempting to ride the trend for as long as possible to maximize profits. 
 
@@ -171,7 +171,7 @@ Inputs (Settings):
 * Show info label: show informational label with calculations: ATR, order size, prices.
 
 
-# Hyperliquid
+# Crypto DEX Hyperliquid
 
 Hyperliquid is an order book perpetual futures DEX. The DEX runs on the Hyperliquid L1, a custom blockchain that is performant enough to operate the whole exchange – every operation happens transparently on-chain with block latency <1 second.
 
