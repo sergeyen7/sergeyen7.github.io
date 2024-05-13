@@ -116,12 +116,12 @@ Script uses universal calculation for every market. It is based on:
 
 With default setting your stoploss = 0.5 percent of equity:
 
-- If initial capital is 1000 USD and used parameter "Permit stop" - loss will be 5 USD (0.5 % of equity).
-- If your Equity rises to 2000 USD and used parameter "Permit stop"- loss will be 10 USD (0.5 % of Equity).
+- If initial capital is 1000 USD and used parameter "Permit stoploss" - loss will be 5 USD (0.5 % of equity).
+- If your Equity rises to 2000 USD and used parameter "Permit stoploss"- loss will be 10 USD (0.5 % of Equity).
 
 * * *
 
-This Risk works only if you enable “Permit stop” parameter in Settings.
+This Risk works only if you enable “Permit stoploss” parameter in Settings.
 
 If this parameter disabled - strategy works as reversal strategy:
 * If close Long - channel border works as stoploss and momentarily go Short.
@@ -163,7 +163,7 @@ Inputs (Settings):
 
 * Length: length of channel for trade opening/closing. You can choose 20/10, 20/20, 50/20, 50/50, 100/50, 100/100. Default value: 50/50.
 
-* Permit stop: use stop or go reversal. Default value: without stop, reversal strategy.
+* Permit stoploss: use stop or go reversal. Default value: without stop, reversal strategy.
 
 * Orders number: use single order or divide it to several orders.
 
