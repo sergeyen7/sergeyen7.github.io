@@ -4,6 +4,8 @@ title: Donchian Quest Research
 description: Do trend following strategy works in crypto?
 ---
 # Table of contents
+* [Experiment](#experiment)
+
 * [What is trend following?](#what-is-trend-following)
   
 * [Idea and script](#idea-and-script)
@@ -17,6 +19,16 @@ description: Do trend following strategy works in crypto?
 * [Vault monthly results](#vault-monthly-results)
   
 * [Contacts](#contacts)
+
+# Experiment
+
+I want to test crypto trend following strategy. 
+
+This type of strategies shows good results in TradFI: commodities, stocks, forex. 
+
+Tradingview shows that this strategy is profitable in crypto too.
+
+I will test it in real trading.
 
 # What is trend following?
 
