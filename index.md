@@ -234,7 +234,9 @@ Main advantage of Hyperliquid:
 
 The basis of any trend following strategy is a simple idea:
 
-> **Trading with mandatory stop loss order and without take profit order. Trade closed with some type of trailing stop.**
+> ** * Trading with some type of stop loss.**
+> ** * Trading without take profit.**
+> ** * Trade closed with some type of trailing stop.**
 
 Hmmm... Is it really that simple?
 
