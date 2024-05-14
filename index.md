@@ -271,7 +271,7 @@ This table illustrates that as the risk-reward ratio increases, the required win
 
 * * *
 
-> **No need to win every trade - big profit can be made with 30%-40%-50% of profitable trades and high Risk:Reward ratio.**
+> **No need to win every trade. Big profit can be made with 30%-40%-50% of profitable trades and high Risk:Reward ratio.**
 
 * * * 
 
