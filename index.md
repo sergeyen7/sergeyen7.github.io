@@ -251,7 +251,7 @@ Let's assume that the trade has a stop loss and an equal take profit. If 50 perc
 
 If we increase the profit to a ratio of 3:1, then with 25 percent of profitable trades there will be zero profit, with 26 percent of profitable trades we will have a small profit.
 
-What if we cut the losses early and let profits grow even more? With many small losses and few big profits, the amount of profits will be much larger than the amount of losses.
+What if we let profits grow even more? With many small losses and few big profits, the amount of profits will be much larger than the amount of losses.
 
 Here's a table showing the required winning rate for different risk-reward ratios to be profitable in trading:
 
