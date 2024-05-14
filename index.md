@@ -289,7 +289,7 @@ If there is no trend, small profit-loss-profit-loss - the chart is horizontal or
 
 * * *
 
-> **So the answer to the original question is yes, it's that simple.**
+> **So the answer to the original question is yes, it's really that simple.**
 
 * * *
 If you strictly follow all the rules of the trading system.
