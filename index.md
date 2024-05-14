@@ -12,9 +12,9 @@ description: Do trend following strategy works in crypto?
   
 * [How to use it](#how-to-use-it)
   
-* [Script description](#script-description)
+* [Description of script](#description-of-script)
   
-* [Crypto DEX Hyperliquid](#crypto-dex-hyperliquid)
+* [Description of Hyperliquid](#description-of-hyperliquid)
 
 * [Vault monthly results](#vault-monthly-results)
 
@@ -79,7 +79,7 @@ I coded this as a script in Tradingview:
 
      [Vault Donchian Quest Research](https://app.hyperliquid.xyz/vaults/0x54094fd5077de413017b5e83da0b587043b55144).
 
-# Script description
+# Description of script
 
 Strategy uses two channels. One channel - for opening trades. Second channel - for closing. Channel is similar to Donchian channel, but uses Close prices (not High/Low). 
 
@@ -186,7 +186,7 @@ Inputs (Settings):
 * Show info label: show informational label with calculations: ATR, order size, prices.
 
 
-# Crypto DEX Hyperliquid
+# Description of Hyperliquid
 
 Hyperliquid is an order book perpetual futures DEX. The DEX runs on the Hyperliquid L1, a custom blockchain that is performant enough to operate the whole exchange – every operation happens transparently on-chain with block latency <1 second.
 
