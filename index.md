@@ -249,7 +249,7 @@ To answer this question we need to know the basics of statistics.
 * * *
 Let's assume that the trade has a stop loss and an equal take profit. If 50 percent of trades end in stop and 50 percent in profit, we will have zero profit. If 51 percent of trades end in profit and 49 percent end in stop, we will have a small profit. If more trades close in profit (60%, 70%, 80%) - we will have a big profit. 
 
-If we increase the profit to a ratio of 3:1, then with 25 percent of profitable trades there will be zero profit, with 26 percent of profitable trades we will have a small profit.
+If we increase the profit to a ratio of 1:3, then with 25 percent of profitable trades there will be zero profit, with 26 percent of profitable trades we will have a small profit.
 
 What if we let profits grow even more? With many small losses and few big profits, the amount of profits will be much larger than the amount of losses.
 
