@@ -276,6 +276,8 @@ Here is an example of how the trend following strategy works in real world. It w
 
 The X-axis represents the net return from the trade. The Y-axis indicates how many trades would have achieved the indicated net return. 17% of trades would have gained 50% or more while less than 3% of trades would have registered a loss equal to or worse than -50%. 
 
+Most profitable trades on right side of chart- more than 300%. Such trades called "outliers" and give maximal profit in trend following.
+
 * * *
 
 The same thing can be seen in crypto. If we use the Tradingview script on a Bitcoin chart, we will get the following test result:
