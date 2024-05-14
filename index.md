@@ -232,7 +232,7 @@ Main advantage of Hyperliquid:
 
 # Theory: Why it works
 
-The basis of any trend following strategy is a simple idea:
+Any trend following strategy use a simple idea:
 
 * * *
 
@@ -244,7 +244,7 @@ The basis of any trend following strategy is a simple idea:
 
 Hmmm... Is it really that simple?
 
-To answer this question we need to know the basics of statistics.
+To answer this question we need to know the basics of statistics and game theory.
 
 * * *
 
