@@ -17,7 +17,9 @@ description: Do trend following strategy works in crypto?
 * [Crypto DEX Hyperliquid](#crypto-dex-hyperliquid)
 
 * [Vault monthly results](#vault-monthly-results)
-  
+
+* [Theory - Why it works](#theory-why-it-works)
+
 * [Contacts](#contacts)
 
 # Experiment
@@ -228,7 +230,7 @@ Main advantage of Hyperliquid:
 | 1 Apr 2024 |           8887 |            830 |
 | 1 May 2024 |           5629 |          -3994 |
 
-# Theory - How it works
+# Theory - Why it works
 
 The basis of any trend following strategy is a simple idea:
 
@@ -256,7 +258,7 @@ Here's a table showing the required winning rate for different risk-reward ratio
 | 1:5         |       16.67% |
 | 1:10        |        9.09% |
 | 1:20        |        4.76% |
-1 1:50        |        1.96% |
+| 1:50        |        1.96% |
 
 This table illustrates that as the risk-reward ratio increases, the required winning rate to be profitable decreases.
 
