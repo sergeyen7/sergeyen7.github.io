@@ -232,7 +232,7 @@ Main advantage of Hyperliquid:
 
 # Theory: Why it works
 
-Any trend following strategy use a simple idea:
+Any trend following strategy uses a simple idea:
 
 * * *
 
