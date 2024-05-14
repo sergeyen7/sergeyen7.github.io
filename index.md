@@ -275,7 +275,7 @@ This table illustrates that as the Risk:Reward ratio increases, the required win
 
 * * * 
 
-How to maximally increase Risk:Reward ratio? Always use stop loss. Never use take profit. “Cut your losses short and let your profits run”.
+How to maximally increase Risk:Reward ratio? Always use stop loss. Never use take profit. “Cut your losses short and let your profits run”. Ride the trend as long as possible.
 
 * * * 
 
