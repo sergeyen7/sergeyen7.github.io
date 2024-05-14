@@ -18,7 +18,7 @@ description: Do trend following strategy works in crypto?
 
 * [Vault monthly results](#vault-monthly-results)
 
-* [Theory - Why it works](#theory-why-it-works)
+* [Theory: Why it works](#theory-why-it-works)
 
 * [Contacts](#contacts)
 
