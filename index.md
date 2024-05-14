@@ -281,6 +281,8 @@ Here is an example of how the trend following strategy works in real world. It w
 
 The X-axis represents the net return from the trade. The Y-axis indicates how many trades would have achieved the indicated net return. 17% of trades would have gained 50% or more while less than 3% of trades would have registered a loss equal to or worse than -50%. 
 
+Winning rate = 49.3%.
+
 Most profitable trades on right side of chart - more than 300%. Any trades with big profit called "outliers" and give maximal profit in trend following.
 
 * * *
@@ -291,7 +293,9 @@ The same thing can be seen in crypto. If we use the Tradingview script on a Bitc
 
 If there is a trend, a trade with a good profit - the chart is growing. Small trend - small grow. If there is no trend, small profit-loss-profit-loss - the chart is horizontal or with drawdown. 
 
-Few big trends, several small trends, many small losses. Total longterm result - profitable.
+Similar distribution pattern: few big trends, several small trends, many small losses. Winning rate = 50.91%.
+
+Total longterm result - profitable.
 
 * * *
 
