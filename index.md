@@ -287,8 +287,11 @@ The same thing can be seen in crypto. If we use the Tradingview script on a Bitc
 If there is a trend, a trade with a good profit - the chart is growing.
 If there is no trend, small profit-loss-profit-loss - the chart is horizontal or with drawdown.
 
+* * *
+
 > **So the answer to the original question is yes, it's that simple.**
 
+* * *
 If you strictly follow all the rules of the trading system.
 
 # Contacts
