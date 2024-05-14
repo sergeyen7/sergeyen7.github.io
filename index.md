@@ -254,9 +254,9 @@ If we leave risk 1 and increase the profit to 3 (r:r ratio of 1:3), then with 25
 
 What if we let profits grow even more? With many small losses and few big profits, the amount of profits will be much larger than the amount of losses.
 
-Here's a table showing the required winning rate for different risk-reward ratios to be profitable in trading:
+Here's a table showing the required winning rate for different Risk:Reward ratios to be profitable in trading:
 
-| Risk-Reward | Winning Rate |
+| Risk:Reward | Winning Rate |
 |:------------|:-------------|
 | 1:1         |          50% |
 | 1:2         |       33.33% |
@@ -267,7 +267,7 @@ Here's a table showing the required winning rate for different risk-reward ratio
 | 1:20        |        4.76% |
 | 1:50        |        1.96% |
 
-This table illustrates that as the risk-reward ratio increases, the required winning rate decreases.
+This table illustrates that as the Risk:Reward ratio increases, the required winning rate decreases.
 
 * * *
 
