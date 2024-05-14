@@ -230,7 +230,7 @@ Main advantage of Hyperliquid:
 | 1 Apr 2024 |           8887 |            830 |
 | 1 May 2024 |           5629 |          -3994 |
 
-# Theory - Why it works
+# Theory: Why it works
 
 The basis of any trend following strategy is a simple idea:
 
