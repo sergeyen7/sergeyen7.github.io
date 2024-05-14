@@ -270,7 +270,7 @@ This table illustrates that as the risk-reward ratio increases, the required win
 
 * * * 
 
-Here is an example of how the trend following strategy works in real world. It was published in the article "Does Trend Following Work on Stocks?" The authors analyzed the strategy on a large sample of NYSE, AMEX and NASDAQ stocks. As a result, they received this chart:
+Here is an example of how the trend following strategy works in real world. It was published in the article "Does Trend Following Work on Stocks?" The authors analyzed the strategy on a large sample of NYSE, AMEX and NASDAQ stocks. As a result, they created this chart:
 
 ![Distribution of returns](/images/distribution.png)
 
