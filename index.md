@@ -241,11 +241,11 @@ Hmmm... Is it really that simple?
 To answer this question we need to know the basics of statistics.
 
 * * *
-Let's assume that the trade has a stop loss and an equal take profit. If 50 percent of trades end in stop and half in profit, we will have zero profit. If 51 percent of trades end in profit and 49 percent end in stop, we will have a small profit.
+Let's assume that the trade has a stop loss and an equal take profit. If 50 percent of trades end in stop and 50 percent in profit, we will have zero profit. If 51 percent of trades end in profit and 49 percent end in stop, we will have a small profit.
 
 If we increase the profit to a ratio of 3:1, then with 25 percent of profitable trades there will be zero profit, with 26 percent of profitable trades we will have a small profit.
 
-What if we cut the losses early and let profits grow even more? With many unprofitable small trades and few trades with big profit, the amount of profits will be much larger than the amount of losses.
+What if we cut the losses early and let profits grow even more? With many small losses and few big profits, the amount of profits will be much larger than the amount of losses.
 
 Here's a table showing the required winning rate for different risk-reward ratios to be profitable in trading:
 
@@ -263,11 +263,10 @@ Here's a table showing the required winning rate for different risk-reward ratio
 This table illustrates that as the risk-reward ratio increases, the required winning rate to be profitable decreases.
 
 * * * 
-Here is an example of how the trend following strategy works. It was published in the article "Does Trend Following Work on Stocks?"
 
-The authors analyzed the strategy on a large sample of NYSE, AMEX and NASDAQ stocks. As a result, they received this chart:
+Here is an example of how the trend following strategy works in real world. It was published in the article "Does Trend Following Work on Stocks?" The authors analyzed the strategy on a large sample of NYSE, AMEX and NASDAQ stocks. As a result, they received this chart:
 
-![Distribution](/images/distribution.png)
+![Distribution of returns](/images/distribution.png)
 
 The X-axis represents the net return from the trade. The Y-axis indicates how many trades would have achieved the indicated net return. 17% of trades would have gained 50% or more while less than 3% of trades would have registered a loss equal to or worse than -50%. 
 
@@ -278,7 +277,7 @@ The same thing can be seen in crypto. If we use the Tradingview script on a Bitc
 ![Strategy Tester on Tradingview](/images/tester.png)
 
 If there is a trend, a trade with a good profit - the chart is growing.
-If there is no trend, small profit-loss-profit-loss - the chart is horizontal.
+If there is no trend, small profit-loss-profit-loss - the chart is horizontal or with drawdown.
 
 > **So the answer to the original question is yes, it's that simple.**
 
