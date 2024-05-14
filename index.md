@@ -266,7 +266,11 @@ Here's a table showing the required winning rate for different risk-reward ratio
 | 1:20        |        4.76% |
 | 1:50        |        1.96% |
 
-This table illustrates that as the risk-reward ratio increases, the required winning rate decreases. No need to win every trade - big profit can be made with 30%-40%-50% of profitable trades.
+This table illustrates that as the risk-reward ratio increases, the required winning rate decreases.
+
+* * *
+
+> **No need to win every trade - big profit can be made with 30%-40%-50% of profitable trades.**
 
 * * * 
 
