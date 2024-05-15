@@ -283,7 +283,7 @@ The X-axis represents the net return from the trade. The Y-axis indicates how ma
 
 Winning rate = 49.3%.
 
-Most profitable trades located on right side of chart - more than 300%. Any trades with big profit called "outliers" or "fat tails" and give maximal profit in trend following.
+Most profitable trades located on right side of chart - more than 300%. Any trades with big profits called "outliers" or "fat tails".
 
 ## Example in crypto
 
