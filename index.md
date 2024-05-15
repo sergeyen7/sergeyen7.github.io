@@ -303,7 +303,7 @@ Total longterm result is profitable.
 
 * * *
 
-> **So the answer to the original question is yes, it's really that simple.**
+> **So the answer to the question is yes, it's really that simple.**
 
 * * *
 But you should strictly follow all the rules of the trading system.
