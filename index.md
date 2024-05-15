@@ -61,7 +61,7 @@ Similar idea was proposed in article **“Black Box Trend Following - Lifting th
 
 I coded this as a script in Tradingview:
 
-[Tradingview](https://www.tradingview.com/script/YPQwKNF8-Donchian-Quest-Research/).
+[Donchian Quest Research](https://www.tradingview.com/script/YPQwKNF8-Donchian-Quest-Research/).
 
 ![Script on Tradingview](/images/script.png)
 
