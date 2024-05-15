@@ -297,7 +297,7 @@ Similar distribution pattern as on stocks example: few big trends, several small
 
 Similar winning rate = 50.91%.
 
-Total longterm result - profitable.
+Total longterm result is profitable.
 
 * * *
 
