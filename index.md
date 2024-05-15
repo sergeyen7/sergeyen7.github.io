@@ -293,7 +293,7 @@ The same thing can be seen in crypto. If we use the Tradingview script on a Bitc
 
 If there is a trend, a trade with a good profit - the chart is growing. Small trend - small grow. If there is no trend, small profit-loss-profit-loss - the chart is horizontal or in drawdown (note that horizontal periods can be very looooooooong). 
 
-Similar distribution pattern as on stocks chart: few big trends, several small trends, many small losses. 
+Similar distribution pattern as on stocks example: few big trends, several small trends, many small losses. 
 
 Similar winning rate = 50.91%.
 
