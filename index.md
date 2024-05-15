@@ -250,7 +250,7 @@ To answer this question we need to know the basics of statistics and game theory
 
 * What if we let profits grow even more? With many small losses and few big profits - we have a big profit.
 
-Here's a table showing the required winning rate for different Risk:Reward ratios to be profitable in trading:
+Here's a table showing the required winning rate for different Risk:Reward ratios to be zero profitable in trading:
 
 | Risk:Reward | Winning Rate |
 |:------------|:-------------|
