@@ -291,7 +291,7 @@ Most profitable trades located on right side of chart - more than 300%. Any trad
 
 * * *
 
-The same thing can be seen in crypto. If we use the Tradingview script on a Bitcoin chart, we will get the following test result:
+The same thing can be seen in crypto. If we use the Tradingview script on a Bitcoin chart, we will get this test result:
 
 ![Strategy Tester on Tradingview](/images/tester.png)
 
