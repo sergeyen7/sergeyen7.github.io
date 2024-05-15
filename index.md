@@ -215,7 +215,7 @@ Disadvantages of Hyperliquid:
 * sometime relatively high funding rates. They are higher than on the CEXs.
 * sometime relatively low liquidity on some coins. Whales only begin discover this DEX.
 * for high speed work all servers should be near each other. Maybe in a single zone of AWS (or similar provider).
-* counterparty risk - anonymous developers can anytime go away with money.
+* **counterparty risk** - anonymous developers can anytime go away with money.
 
 Main advantage of Hyperliquid:
 * it works on smartcontracts.
