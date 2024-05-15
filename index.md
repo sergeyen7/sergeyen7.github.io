@@ -299,6 +299,8 @@ Similar winning rate = 50.91%.
 
 Total longterm result is profitable.
 
+## Answer
+
 * * *
 
 > **So the answer to the original question is yes, it's really that simple.**
