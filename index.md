@@ -11,12 +11,12 @@ description: Do trend following strategy works in crypto?
 * [Idea and script](#idea-and-script)
   
 * [How to use it](#how-to-use-it)
+
+* [Vault monthly results](#vault-monthly-results)
   
 * [Description of script](#description-of-script)
   
 * [Description of Hyperliquid](#description-of-hyperliquid)
-
-* [Vault monthly results](#vault-monthly-results)
 
 * [Theory: Why it works](#theory-why-it-works)
 
@@ -74,6 +74,16 @@ I coded this as a script in Tradingview:
 * You can invest your money in my Hyperliquid vault - if you clearly understand theory of trend following described in next chapters:
 
      [Vault Donchian Quest Research](https://app.hyperliquid.xyz/vaults/0x54094fd5077de413017b5e83da0b587043b55144).
+
+# Vault monthly results
+
+|    Date    |  Equity (USD)  |  Pnl (30 days) |
+|:-----------|:---------------|:---------------|
+| 1 Jan 2024 |           5000 |              0 |
+| 1 Feb 2024 |           4755 |           -245 |
+| 1 Mar 2024 |           7295 |           2531 |
+| 1 Apr 2024 |           8887 |            830 |
+| 1 May 2024 |           5629 |          -3994 |
 
 # Description of script
 
@@ -215,16 +225,6 @@ Disadvantages of Hyperliquid:
 
 Main advantage of Hyperliquid:
 * it works on smartcontracts.
-
-# Vault monthly results
-
-|    Date    |  Equity (USD)  |  Pnl (30 days) |
-|:-----------|:---------------|:---------------|
-| 1 Jan 2024 |           5000 |              0 |
-| 1 Feb 2024 |           4755 |           -245 |
-| 1 Mar 2024 |           7295 |           2531 |
-| 1 Apr 2024 |           8887 |            830 |
-| 1 May 2024 |           5629 |          -3994 |
 
 # Theory: Why it works
 
