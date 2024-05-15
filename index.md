@@ -295,7 +295,7 @@ The same thing can be seen in crypto. If we use the Tradingview script on a Bitc
 
 ![Strategy Tester on Tradingview](/images/tester.png)
 
-If there is a trend, a trade with a good profit - the chart is growing. Small trend - small grow. If there is no trend, small profit-loss-profit-loss - the chart is horizontal or in drawdown. 
+If there is a trend, a trade with a good profit - the chart is growing. Small trend - small grow. If there is no trend, small profit-loss-profit-loss - the chart is horizontal or in drawdown (note that horizontal periods can be very looooooooong). 
 
 Similar distribution pattern: few big trends, several small trends, many small losses. 
 
