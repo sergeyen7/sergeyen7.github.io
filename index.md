@@ -275,7 +275,7 @@ How to maximally increase Risk:Reward ratio? Always use stop loss. Never use tak
 
 * * * 
 
-Here is an example of how the trend following strategy works in real world. It was published in the article "Does Trend Following Work on Stocks?" The authors analyzed the strategy on a large sample of NYSE, AMEX and NASDAQ stocks. As a result, they created this chart:
+Here is an example of how the trend following strategy works in real world. It was published in the article "Does Trend Following Work on Stocks?" It was long-only strategy with buy on ATH and exit with 10ATR trailing stop. The authors analyzed the strategy on a large sample of NYSE, AMEX and NASDAQ stocks. As a result, they created this chart:
 
 ![Distribution of returns](/images/distribution.png)
 
