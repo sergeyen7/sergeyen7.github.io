@@ -287,7 +287,7 @@ Most profitable trades located on right side of chart - more than 300%. Any trad
 
 ## Example in crypto
 
-The same thing can be seen in crypto. If we use the Tradingview script on a Bitcoin all time history index, we get this test result:
+The same thing can be seen in crypto. If we use the Tradingview script on a Bitcoin all time history index, we get this Equity chart:
 
 ![Strategy Tester on Tradingview](/images/tester.png)
 
