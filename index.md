@@ -271,7 +271,7 @@ This table illustrates that as the Risk:Reward ratio increases, the required win
 
 How to maximally increase Risk:Reward ratio? Always use stop loss. Never use take profit. “Cut your losses short and let your profits run”. Ride the trend as long as possible.
 
-* * * 
+## Example in stocks
 
 Here is an example of how the trend following strategy works in real world. It was published in the article "Does Trend Following Work on Stocks?" It was long-only strategy with buy on ATH and exit with 10ATR trailing stop. The authors analyzed the strategy on a large sample of NYSE, AMEX and NASDAQ stocks. As a result, they created this chart:
 
@@ -283,7 +283,7 @@ Winning rate = 49.3%.
 
 Most profitable trades located on right side of chart - more than 300%. Any trades with big profit called "outliers" or "fat tails" and give maximal profit in trend following.
 
-* * *
+## Example in crypto
 
 The same thing can be seen in crypto. If we use the Tradingview script on a Bitcoin chart, we will get this test result:
 
