@@ -229,9 +229,6 @@ Main advantage of Hyperliquid:
 # Theory: Why it works
 
 ## Game theory
-### Game theory
-#### Game theory
-
 
 Any trend following strategy uses a simple idea:
 
