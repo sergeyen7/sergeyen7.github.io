@@ -232,7 +232,12 @@ Hmmm... Is it really that simple?
 
 To answer this question we need to know the basics of statistics and game theory.
 
-* Let's assume that the trade has a stop loss (risk) and an equal take profit (reward). Risk:Reward ratio 1:1. If 50 percent of trades end in profit (Winning rate), we have zero profit. If 51 percent of trades end in profit, we have a small profit. If more trades close in profit (60%, 70%, 80%) - we have a big profit. 
+* Let's assume that the trade has a stop loss (risk) and an equal take profit (reward). Risk:Reward ratio 1:1. If 50 percent of trades end in profit (Winning rate), we have zero profit. If 51 percent of trades end in profit, we have a small profit. If more trades close in profit (60%, 70%, 80%) - we have a big profit.
+
+- Let's assume that the trade has a stop loss (risk) and an equal take profit (reward). Risk:Reward ratio 1:1.
+  - If 50 percent of trades end in profit (Winning rate), we have zero profit.
+  - If 51 percent of trades end in profit, we have a small profit.
+  - If more trades close in profit (60%, 70%, 80%) - we have a big profit. 
 
 * If we increase the profit to 3 (Risk:Reward ratio of 1:3), then with 25 percent of profitable trades there will be zero profit. With 26 percent of profitable trades we have a small profit. If more trades close in profit (30%, 40%, 50%) - we have a big profit. 
 
