@@ -36,11 +36,7 @@ I will test it in real trading.
 
 Trend following is an trading strategy that aims to capitalize on the directional movement, or trends, in financial markets. Followers of this strategy believe that assets tend to move in persistent directions over time. 
 
-* * *
-
 > **Trend followers typically buy or sell assets based on the direction of the prevailing trend, attempting to ride the trend for as long as possible to maximize profits.**
-
-* * *
 
 Trend following is characterized by its systematic and disciplined approach, with practitioners aiming to minimize losses during periods of market volatility while capturing gains during trend movements.
 
@@ -61,7 +57,7 @@ Similar idea was proposed in article **“Black Box Trend Following - Lifting th
 
 I coded this as a script in Tradingview:
 
-[Donchian Quest Research](https://www.tradingview.com/script/YPQwKNF8-Donchian-Quest-Research/).
+> [Donchian Quest Research](https://www.tradingview.com/script/YPQwKNF8-Donchian-Quest-Research/).
 
 ![Script on Tradingview](/images/script.png)
 
@@ -207,11 +203,7 @@ You can trade more than 100 assets on the exchange: btc, eth, regular altcoins, 
 
 Interesting function - 'vaults'. It's like 'pools' on other DEXs, but 'vault leader' can trade funds of this vault. Normal perpetual trade - longs, shorts. Normal liquidations if something go wrong. If trade is profitable - leader receive a 10% profit share for managing the vault. 
 
-* * *
-
 > **As always: Trading is inherently risky, and vaults’ past performance is not a guarantee of future returns.**
-
-* * *
 
 Vaults have a lock-up period of 1 day.
 
@@ -232,13 +224,9 @@ Main advantage of Hyperliquid:
 
 Any trend following strategy uses a simple idea:
 
-* * *
-
 > * **Trading with some type of stop loss.**
 > * **Trading without take profit.**
 > * **Trade closed with some type of trailing stop.**
-
-* * *
 
 Hmmm... Is it really that simple?
 
@@ -265,11 +253,7 @@ Here's a table showing the required winning rate for different Risk:Reward ratio
 
 This table illustrates that as the Risk:Reward ratio increases, the required winning rate decreases. Any winning rate greater than in table - profitable.
 
-* * *
-
 > **No need to win every trade. Big profit can be made with 30%-40%-50% of profitable trades and high Risk:Reward ratio.**
-
-* * * 
 
 How to maximally increase Risk:Reward ratio? Always use stop loss. Never use take profit. “Cut your losses short and let your profits run”. Ride the trend as long as possible.
 
@@ -301,11 +285,8 @@ Total longterm result is profitable.
 
 ## Answer
 
-* * *
-
 > **So the answer to the question is yes, it's really that simple.**
 
-* * *
 But you should strictly follow all the rules of the trading system.
 
 # Contacts
