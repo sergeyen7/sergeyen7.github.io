@@ -220,8 +220,6 @@ Main advantage of Hyperliquid:
 
 # Theory: Why it works
 
-## Game theory
-
 Any trend following strategy uses a simple idea:
 
 > * **Trading with some type of stop loss.**
@@ -231,6 +229,8 @@ Any trend following strategy uses a simple idea:
 Hmmm... Is it really that simple?
 
 To answer this question we need to know the basics of statistics and game theory.
+
+## Game theory
 
 - Let's assume that the trade has a stop loss (risk) and an equal take profit (reward). Risk:Reward ratio 1:1:
   - If 50 percent of trades end in profit (Winning rate) - we have zero profit.
