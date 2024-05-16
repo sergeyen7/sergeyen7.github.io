@@ -271,7 +271,7 @@ If there is no take profit, it is impossible to know in advance how the trade wi
 
 Maybe it will close with a small profit of +50%, maybe it will be a complete loss of -100%, maybe it will be a small loss of -50%, maybe it will be a wild profitable trend +15000%.
 
-If we analyze historical profitability, then:
+It's impossible to predict the future. But we can look back, at history. If we analyze historical profitability, then:
 - a significant number of trades will close in the range from -50% to +50 percent.
 - Fewer trades will have losses in the range from -50% to -100%.
 - It will be exactly the same with profit: there will be trades of +100%, a smaller number will close at +200%, an even smaller number at +300 percent, and so on.
