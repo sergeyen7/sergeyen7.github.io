@@ -265,6 +265,27 @@ This table illustrates that as the Risk:Reward ratio increases, the required win
 
 How to maximally increase Risk:Reward ratio? Always use stop loss. Never use take profit. “Cut your losses short and let your profits run”. Ride the trend as long as possible.
 
+## Statistics
+
+If there is no take profit, it is impossible to know in advance how the trade will end and what profit there will be.
+
+Maybe it will close with a small profit of +50%, maybe it will be a complete loss of -100%, maybe it will be a small loss of -50%, maybe it will be a wild profitable trend +15000%.
+
+If we analyze historical profitability, then:
+- a significant number of trades will close approximately in the range from -50% to +50 percent.
+- Fewer trades will have losses in the range from -50% to -100%.
+- It will be exactly the same with profit: there will be trades of +100%, a smaller number will close at +200%, an even smaller number at +300 percent, and so on.
+
+Graphically it looks something like this:
+
+![Theoretical example](/images/theoretical.png)
+
+The x-axis is the trade's profit. The y-axis is the number of trades in this range.
+
+In statistics, this distribution is called “positively skewed.”
+
+On the right are very rare trades with very large profits - big trends. They are called “outliers” or “fat tails” and bring the main profits in trend following.
+
 ## Example in stocks
 
 Here is an example of how the trend following strategy works in real world. It was published in the article "Does Trend Following Work on Stocks?" It was long-only strategy with buy on ATH and exit with 10ATR trailing stop. The authors analyzed the strategy on a large sample of NYSE, AMEX and NASDAQ stocks. As a result, they created this chart:
@@ -275,7 +296,7 @@ The X-axis represents the net return from the trade. The Y-axis indicates how ma
 
 Winning rate = 49.3%.
 
-Most profitable trades located on right side of chart - more than 300%. Any trades with big profits called "outliers" or "fat tails".
+Total longterm result is profitable.
 
 ## Example in crypto
 
