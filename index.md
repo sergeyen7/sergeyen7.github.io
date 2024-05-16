@@ -267,14 +267,14 @@ How to maximally increase Risk:Reward ratio? Always use stop loss. Never use tak
 
 ## Statistics
 
-If there is no take profit, it is impossible to know in advance how the trade will end and what profit there will be.
+If there is no take profit, it is impossible to know in advance how the trade end and what profit there will be.
 
-Maybe it will close with a small profit of +50%, maybe it will be a complete loss of -100%, maybe it will be a small loss of -50%, maybe it will be a wild profitable trend +15000%.
+Maybe it close with a small profit of +50%, maybe it be a complete loss of -100%, maybe it be a small loss of -50%, maybe it be a wild profitable trend +15000%.
 
 It's impossible to predict the future. But we can look back, at history. If we analyze historical profitability, then:
-- a significant number of trades will close in the range from -50% to +50 percent.
-- Fewer trades will have losses in the range from -50% to -100%.
-- It will be exactly the same with profit: there will be trades of +100%, a smaller number will close at +200%, an even smaller number at +300 percent, and so on.
+- A significant number of trades close in the range from -50% to +50 percent.
+- Fewer trades have losses in the range from -50% to -100%.
+- Exactly the same with profit: some trades close at +100%, a smaller number close at +200%, an even smaller number at +300 percent, and so on.
 
 Graphically it looks something like this:
 
