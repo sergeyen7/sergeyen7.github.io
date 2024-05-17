@@ -261,7 +261,7 @@ Here's a table showing the required winning rate for different Risk:Reward ratio
 
 This table illustrates that as the Risk:Reward ratio increases, the required winning rate decreases. Any winning rate greater than in table - profitable.
 
-> **No need to win every trade. Big profit can be made with 30%-40%-50% of profitable trades and high Risk:Reward ratio.**
+> **No need to win every trade. Profit can be made with 30%-40%-50% of profitable trades and high Risk:Reward ratio.**
 
 How to maximally increase Risk:Reward ratio? Always use stop loss. Never use take profit. “Cut your losses short and let your profits run”. Ride the trend as long as possible.
 
@@ -269,12 +269,16 @@ How to maximally increase Risk:Reward ratio? Always use stop loss. Never use tak
 
 If there is no take profit, it is impossible to know in advance how the trade end and what profit there will be.
 
-Maybe it close with a small profit of +50%, maybe it be a complete loss of -100%, maybe it be a small loss of -50%, maybe it be a wild profitable trend +15000%.
+Maybe it is:
+- small profit of +50%;
+- complete loss of -100%;
+- small loss of -50%;
+- wild trend +15000%.
 
 It's impossible to predict the future. But we can look back, at history. If we analyze historical profitability, then:
 - A significant number of trades close in the range from -50% to +50 percent.
-- Fewer trades have losses in the range from -50% to -100%.
-- Exactly the same with profit: some trades close at +100%, a smaller number close at +200%, an even smaller number at +300 percent, and so on.
+- Fewer trades have losses in the range from -50% to -100%. Mandatory stop loss - our boundary for losses.
+- There is no boundary for profit: some trades close at +100%, a smaller number close at +200%, an even smaller number at +300 percent, and so on.
 
 Graphically it looks something like this:
 
