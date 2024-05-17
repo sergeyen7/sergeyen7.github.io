@@ -286,7 +286,7 @@ Graphically it looks something like this:
 
 The x-axis is the trade's profit. The y-axis is the number of trades in this range.
 
-In statistics, this distribution is called “positively skewed.”
+In statistics, such distribution is called “positively skewed.”
 
 On the right are very rare trades with very large profits - big trends. They are called “outliers” or “fat tails” and bring the main profits in trend following.
 
