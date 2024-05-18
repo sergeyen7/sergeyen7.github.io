@@ -171,10 +171,6 @@ Inputs (Settings):
 
 * Orders number: use single order or divide it to several orders.
 
-* Use additional orders: if trade is profitable - use additional orders to increase position size.
-
-* Cost %: If enabled "Use additional": Maximal position cost (size * entry) in percents of Equity.
-
 * Permit Long / Permit short: Longs are most profitable for this strategy. You can disable Shorts and enable Longs only. Default value: permit all directions.
 
 * Risk % of Equity: for position sizing used Equity percent. Don't use values greater than 5 % - it's risky. Default value: 0.5%.
