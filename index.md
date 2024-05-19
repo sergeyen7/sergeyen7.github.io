@@ -59,11 +59,13 @@ I coded this as a script in Tradingview:
 
 > [Donchian Quest Research](https://www.tradingview.com/script/YPQwKNF8-Donchian-Quest-Research/).
 
+It's open-source Pine script V5.
+
 ![Script on Tradingview](/images/script.png)
 
 # How to use it
 
-* You can use script for your trading as you wish - on any exchange with perpetual futures or spot. My referral link for crypto exchange Hyperliquid:
+* You can use script free for your trading as you wish - on any exchange with perpetual futures or spot. My referral link for crypto exchange Hyperliquid:
 
      [app.hyperliquid.xyz/join/SERGEYEN](https://app.hyperliquid.xyz/join/SERGEYEN).
 
