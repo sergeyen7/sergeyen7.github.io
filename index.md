@@ -65,7 +65,7 @@ It's open-source Pine script V5.
 
 # How to use it
 
-* You can use script free for your trading as you wish - on any exchange with perpetual futures or spot. My referral link for crypto exchange Hyperliquid:
+* You can use the script for free for your trading as you wish - on any exchange with perpetual futures or spot. My referral link for crypto exchange Hyperliquid:
 
      [app.hyperliquid.xyz/join/SERGEYEN](https://app.hyperliquid.xyz/join/SERGEYEN).
 
