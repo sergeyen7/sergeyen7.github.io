@@ -82,11 +82,6 @@ It's open-source Pine script V5.
 * Risk % of Equity: 0.5;
 * Portfolio: 70 coins.
 
-|    Date    |  Equity (USD)  |
-|:-----------|:---------------|
-| Length | 20/20 |
-| Number   | 5   |
-
 ## Results
 
 |    Date    |  Equity (USD)  |  Pnl (30 days) |
