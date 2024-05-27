@@ -80,7 +80,7 @@ It's open-source Pine script V5.
 * Permit stoploss: Trailing
 * Orders number: 5
 * Risk % of Equity: 0.5
-* POrtfolio: 70 coins.
+* Portfolio: 70 coins.
 
 ## Results
 |    Date    |  Equity (USD)  |  Pnl (30 days) |
