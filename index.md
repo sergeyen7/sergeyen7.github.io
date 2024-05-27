@@ -76,13 +76,14 @@ It's open-source Pine script V5.
 # Vault monthly results
 
 ## Settings
-* Length: 20/20
-* Permit stoploss: Trailing
-* Orders number: 5
-* Risk % of Equity: 0.5
+* Length: 20/20;
+* Permit stoploss: Trailing;
+* Orders number: 5;
+* Risk % of Equity: 0.5;
 * Portfolio: 70 coins.
 
 ## Results
+
 |    Date    |  Equity (USD)  |  Pnl (30 days) |
 |:-----------|:---------------|:---------------|
 | 1 Jan 2024 |           5000 |              0 |
