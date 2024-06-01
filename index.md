@@ -280,7 +280,7 @@ Maybe it is:
 - small profit +150%;
 - complete loss -100%;
 - small loss -50%;
-- wild trend +15000%.
+- big trend +15000%.
 
 It's impossible to predict the future. But we can look back, at history. If we analyze historical profitability, then:
 - A significant number of trades close in the range from -50% to +50 percent.
