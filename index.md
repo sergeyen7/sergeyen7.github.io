@@ -343,8 +343,8 @@ Formula for calculating trade size:
 
 qty = risk_usd / (atr_mult * atr)
 
-* risk_usd - a dollar amount that can be lost in a trade. Calculated as a percentage of equity.
-* atr_mult - a multiplier that allows you to adjust the resulting size and position of the stoploss.
+* risk_usd - usd amount that can be lost in a trade. Calculated as a percentage of equity.
+* atr_mult - multiplier that allows you to adjust the resulting size and position of the stoploss.
 * atr - volatility according to the ATR indicator.
 
 Default values ​​in the script:
