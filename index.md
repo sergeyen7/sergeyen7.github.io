@@ -361,27 +361,27 @@ risk_usd = equity / 100 * risk_percent = 1000 / 100 * 0.5 = 5 usd.
 
 Btc:
 * Atr indicator = 2267
-* qty = 5 / (2 * 2267) = 0,001102779
+* qty = 5 / (2 * 2267) = 0,0011
 
 Sol:
 * Atr indicator = 9.70
-* qty = 5 / (2 * 9.70) = 0,257731959
+* qty = 5 / (2 * 9.70) = 0,2577
 
 Gala:
 * Atr indicator = 0.0038
-* qty = 5 / (2 * 0.0038) = 657,894736842
+* qty = 5 / (2 * 0.0038) = 657
 
 Turbo:
 * Atr indicator = 0.000293
-* qty = 5 / (2 * 0.000293) = 8532,423208191
+* qty = 5 / (2 * 0.000293) = 8532
   
 * * *
 
 Different volatility results in different cost - sum of usd spended on trade (qty * price):
-* Btc: 0,001102779 * 69443 = 76.58 usd.
-* Sol: 0,257731959 * 160.14 = 41.27 usd.
-* Gala: 657,894736842 * 0.0379 = 24.93 usd.
-* Turbo: 8532,423208191 * 0.002444 = 20.85 usd.
+* Btc: 0,0011 * 69443 = 76.58 usd.
+* Sol: 0,2577 * 160.14 = 41.27 usd.
+* Gala: 657 * 0.0379 = 24.93 usd.
+* Turbo: 8532 * 0.002444 = 20.85 usd.
 
 > But all these trades have the same risk - 5 usd.
 
