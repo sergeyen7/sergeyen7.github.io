@@ -329,6 +329,50 @@ Total longterm result is profitable.
 
 But you should strictly follow all the rules of the trading system.
 
+# Theory: Risk management
+
+In the trend following, risk management is very important - the correct calculation of the amount of money you risk in one trade.
+
+As in many other areas, you need to find your settings depending on your risk tolerance.
+* if the risk is high, then a series of unsuccessful trades can quickly liquidate the account.
+* if the risk is low, then with a good trend you won’t earn much.
+
+Formula for calculating trade size:
+
+qty = risk_usd / (atr_mult * atr)
+
+* risk_usd - a dollar amount that can be lost in a trade. Calculated as a percentage of equity.
+* atr_mult - a multiplier that allows you to adjust the resulting size and position of the stoploss.
+* atr - volatility according to the ATR indicator.
+
+Default values ​​in the script:
+* Risk % = 0.5
+* atr_mult = 2
+
+Calculation example:
+
+Equity = 1000 usd.
+risk_usd = equity / 100 * risk_percent = 1000 / 100 * 0.5 = 5 usd.
+
+Btc:
+* Atr indicator = 2267 usd.
+* qty = 5 / (2 * 2267) = 0,001102779
+
+Sol:
+* Atr indicator = 9.70
+* qty = 5 / (2 * 9.70) = 0,257731959
+
+Gala:
+* Atr indicator = 0.0038
+* qty = 5 / (2 * 0.0038) = 657,894736842
+
+Different volatility results in different cost - sum of usd spended on trade (qty * price):
+* btc: 0,001102779 * 69443 = 76.58 usd.
+* sol: 0,257731959 * 160.14 = 41.27 usd.
+* gala:  657,894736842 * 0.0379 = 24.93 usd.
+
+But all these trades have the same risk - 5 usd.
+
 # Contacts
 
 [Twitter](https://twitter.com/sergeyen777).
