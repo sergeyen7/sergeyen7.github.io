@@ -351,6 +351,8 @@ Default values ​​in the script:
 * Risk % = 0.5
 * atr_mult = 2
 
+* * *
+
 Calculation example:
 
 Equity = 1000 usd.
@@ -368,6 +370,8 @@ Sol:
 Gala:
 * Atr indicator = 0.0038
 * qty = 5 / (2 * 0.0038) = 657,894736842
+
+* * *
 
 Different volatility results in different cost - sum of usd spended on trade (qty * price):
 * btc: 0,001102779 * 69443 = 76.58 usd.
