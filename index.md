@@ -383,7 +383,7 @@ Different volatility results in different cost - sum of usd spended on trade (qt
 * Gala: 657,894736842 * 0.0379 = 24.93 usd.
 * Turbo: 8532,423208191 * 0.002444 = 20.85 usd.
 
-But all these trades have the same risk - 5 usd.
+> But all these trades have the same risk - 5 usd.
 
 # Contacts
 
