@@ -360,7 +360,7 @@ Equity = 1000 usd.
 risk_usd = equity / 100 * risk_percent = 1000 / 100 * 0.5 = 5 usd.
 
 Btc:
-* Atr indicator = 2267 usd.
+* Atr indicator = 2267
 * qty = 5 / (2 * 2267) = 0,001102779
 
 Sol:
