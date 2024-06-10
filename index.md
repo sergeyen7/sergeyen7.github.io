@@ -354,6 +354,7 @@ Default values ​​in the script:
 Calculation example:
 
 Equity = 1000 usd.
+
 risk_usd = equity / 100 * risk_percent = 1000 / 100 * 0.5 = 5 usd.
 
 Btc:
