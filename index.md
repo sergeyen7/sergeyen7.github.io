@@ -333,7 +333,7 @@ But you should strictly follow all the rules of the trading system.
 
 # Theory: Risk management
 
-In the trend following, risk management is very important - the correct calculation of the amount of money you risk in one trade.
+In the trend following, risk management is very important - calculation of the amount of money you risk in one trade and total risk of all opened trades.
 
 You need to find your settings depending on your risk tolerance:
 * if the risk is high, then a series of unsuccessful trades can quickly liquidate the account.
@@ -378,10 +378,14 @@ Turbo:
 * * *
 
 Different volatility results in different cost - sum of usd spended on trade (qty * price):
-* Btc: 0,0011 * 69443 = 76.58 usd.
-* Sol: 0,2577 * 160.14 = 41.27 usd.
-* Gala: 657 * 0.0379 = 24.93 usd.
-* Turbo: 8532 * 0.002444 = 20.85 usd.
+* Btc:
+  * 0,0011 * 69443 = 76.58 usd.
+* Sol:
+  * 0,2577 * 160.14 = 41.27 usd.
+* Gala:
+  * 657 * 0.0379 = 24.93 usd.
+* Turbo:
+  * 8532 * 0.002444 = 20.85 usd.
 
 **But all these trades have the same risk - 5 usd.**
 
