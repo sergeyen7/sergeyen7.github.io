@@ -20,6 +20,8 @@ description: Do trend following strategy works in crypto?
 
 * [Theory: Why it works](#theory-why-it-works)
 
+* [Theory: Risk management](#theory-risk-management)
+
 * [Contacts](#contacts)
 
 # Experiment
