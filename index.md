@@ -335,7 +335,7 @@ But you should strictly follow all the rules of the trading system.
 
 In the trend following, risk management is very important - the correct calculation of the amount of money you risk in one trade.
 
-You need to find your settings depending on your risk tolerance.
+You need to find your settings depending on your risk tolerance:
 * if the risk is high, then a series of unsuccessful trades can quickly liquidate the account.
 * if the risk is low, then with a good trend you won’t earn much.
 
