@@ -359,21 +359,21 @@ Equity = 1000 usd.
 
 risk_usd = equity / 100 * risk_percent = 1000 / 100 * 0.5 = 5 usd.
 
-Btc:
-* Atr indicator = 2267
-* qty = 5 / (2 * 2267) = 0,0011 btc
+* Btc:
+  * Atr indicator = 2267
+  * qty = 5 / (2 * 2267) = 0,0011 btc
 
-Sol:
-* Atr indicator = 9.70
-* qty = 5 / (2 * 9.70) = 0,2577 sol
+* Sol:
+  * Atr indicator = 9.70
+  * qty = 5 / (2 * 9.70) = 0,2577 sol
 
-Gala:
-* Atr indicator = 0.0038
-* qty = 5 / (2 * 0.0038) = 657 gala
+* Gala:
+  * Atr indicator = 0.0038
+  * qty = 5 / (2 * 0.0038) = 657 gala
 
-Turbo:
-* Atr indicator = 0.000293
-* qty = 5 / (2 * 0.000293) = 8532 turbo
+* Turbo:
+  * Atr indicator = 0.000293
+  * qty = 5 / (2 * 0.000293) = 8532 turbo
   
 * * *
 
