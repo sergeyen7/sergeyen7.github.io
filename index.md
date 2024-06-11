@@ -391,7 +391,7 @@ Different volatility results in different cost - sum of usd spended on trade (qt
 
 * * *
 
-About the second component of risk management, the total risk of all open transactions:
+About the second component of risk management, the total risk of all open trades:
 
 Everything is very simple.
 
@@ -399,9 +399,9 @@ Calculate sum of all stops. Imagine a black swan event that causes all your open
 
 Are you comfortable with the amount of this loss? 
 
-Are you ready to lose that amount and remain calm, remain unemotional and continue to strictly follow all the rules of the system?
+Are you ready to lose that amount and remain calm, coldblooded, unemotional and continue to strictly follow all the rules of the system?
 
-If you are uncomfortable, your overall risk is too great.
+If you are uncomfortable, your overall risk is too big.
 
 # Contacts
 
