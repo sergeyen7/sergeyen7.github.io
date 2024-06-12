@@ -347,15 +347,13 @@ Formula for calculating trade size:
 * atr_mult - multiplier that allows you to adjust the resulting size of trade and location of the stoploss.
 * atr - volatility according to the ATR indicator.
 
-Default values ​​in the script:
-* Risk % = 0.5
-* atr_mult = 2
-
 * * *
 
-Calculation example:
+Example with default script values:
 
-Equity = 1000 usd.
+Equity = 1000 usd
+Risk percent = 0.5
+Atr mult = 2
 
 risk_usd = equity / 100 * risk_percent = 1000 / 100 * 0.5 = 5 usd.
 
