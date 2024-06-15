@@ -351,9 +351,9 @@ Formula for calculating trade size:
 
 Example with default script values:
 
-Equity = 1000 usd
-Risk percent = 0.5
-Atr mult = 2
+* Equity = 1000 usd
+* Risk percent = 0.5
+* Atr mult = 2
 
 risk_usd = equity / 100 * risk_percent = 1000 / 100 * 0.5 = 5 usd.
 
