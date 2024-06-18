@@ -341,7 +341,7 @@ You need to find your settings depending on your risk tolerance:
 
 ## Risk per trade
 
-Formula for calculating trade size:
+Formula:
 
 > **risk_usd = equity / 100 * risk%**
 > 
