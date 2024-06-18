@@ -78,7 +78,7 @@ It's open-source Pine script V5.
 # Vault monthly results
 
 ## Settings
-* Length: 20/20;
+* Length: 20/10;
 * Permit stoploss: Trailing;
 * Orders number: 5;
 * Risk % of Equity: 0.5.
