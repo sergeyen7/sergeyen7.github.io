@@ -344,6 +344,7 @@ You need to find your settings depending on your risk tolerance:
 Formula for calculating trade size:
 
 > **risk_usd = equity / 100 * risk%**
+> 
 > **qty = risk_usd / (atr_mult * atr)**
 >
 > **cost = qty * price**
