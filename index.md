@@ -373,12 +373,6 @@ risk_usd = 1000 / 100 * 0.5 = 5 usd
   * qty = 5 / (2 * 9.70) = 0,2577 sol
   * cost = 0,2577 * 160.14 = 41.27 usd
 
-* Gala:
-  * Atr indicator = 0.0038
-  * Price = 0.0379
-  * qty = 5 / (2 * 0.0038) = 657 gala
-  * cost = 657 * 0.0379 = 24.93 usd
-
 * Turbo:
   * Atr indicator = 0.000293
   * Price = 0.002444
