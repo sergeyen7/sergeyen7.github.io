@@ -344,6 +344,7 @@ You need to find your settings depending on your risk tolerance:
 Formula for calculating trade size:
 
 > **qty = risk_usd / (atr_mult * atr)**
+
 > **cost = qty * price**
 
 * risk_usd - usd amount that can be lost in a trade. Calculated as a percentage of equity. Low risk = 0.5%. Medium risk = 1.0% - 1.5%. High risk = 2.0%.
@@ -352,13 +353,13 @@ Formula for calculating trade size:
 
 ## Example
 
-Default script values:
+Default script settings:
 
 * Equity = 1000 usd
 * Risk percent = 0.5
 * Atr mult = 2
 
-risk_usd = equity / 100 * risk_percent = 1000 / 100 * 0.5 = 5 usd.
+risk_usd = 1000 / 100 * 0.5 = 5 usd
 
 * Btc:
   * Atr indicator = 2267
@@ -383,8 +384,6 @@ risk_usd = equity / 100 * risk_percent = 1000 / 100 * 0.5 = 5 usd.
   * Price = 0.002444
   * qty = 5 / (2 * 0.000293) = 8532 turbo
   * cost = 8532 * 0.002444 = 20.85 usd
-  
-* * *
 
 Different volatility results in different usd cost. **But all these trades have the same risk - 5 usd.**
 
