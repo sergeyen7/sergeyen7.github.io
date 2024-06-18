@@ -339,6 +339,8 @@ You need to find your settings depending on your risk tolerance:
 * if the risk is high, then a series of unsuccessful trades can quickly liquidate the account.
 * if the risk is low, then with a good trend you won’t earn much.
 
+## Risk per trade
+
 Formula for calculating trade size:
 
 > **qty = risk_usd / (atr_mult * atr)**
@@ -387,17 +389,13 @@ Different volatility results in different cost - sum of usd spended on trade (qt
 
 **But all these trades have the same risk - 5 usd.**
 
-* * *
+## Total Risk
 
-About the second component of risk management, the total risk of all open trades:
-
-Everything is very simple.
+About the second component of risk management, the total risk of all open trades - everything is very simple.
 
 Calculate sum of all stops. Imagine a black swan event that causes all your open trades to close at the same time.
 
-Are you comfortable with the amount of this loss? 
-
-Are you ready to lose that amount and remain calm, coldblooded, unemotional and continue to strictly follow all the rules of the system?
+Are you comfortable with the amount of this loss? Are you ready to lose that amount and remain calm, coldblooded, unemotional and continue to strictly follow all the rules of the system?
 
 If you are uncomfortable, your overall risk is too big.
 
