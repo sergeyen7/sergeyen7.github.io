@@ -343,8 +343,9 @@ You need to find your settings depending on your risk tolerance:
 
 Formula for calculating trade size:
 
+> **risk_usd = equity / 100 * risk%**
 > **qty = risk_usd / (atr_mult * atr)**
-
+>
 > **cost = qty * price**
 
 * risk_usd - usd amount that can be lost in a trade. Calculated as a percentage of equity. Low risk = 0.5%. Medium risk = 1.0% - 1.5%. High risk = 2.0%.
@@ -356,7 +357,7 @@ Formula for calculating trade size:
 Default script settings:
 
 * Equity = 1000 usd
-* Risk percent = 0.5
+* Risk% = 0.5
 * Atr mult = 2
 
 risk_usd = 1000 / 100 * 0.5 = 5 usd
