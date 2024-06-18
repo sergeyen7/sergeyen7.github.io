@@ -344,14 +344,15 @@ You need to find your settings depending on your risk tolerance:
 Formula for calculating trade size:
 
 > **qty = risk_usd / (atr_mult * atr)**
+> **cost = qty * price**
 
-* risk_usd - usd amount that can be lost in a trade. Calculated as a percentage of equity.
+* risk_usd - usd amount that can be lost in a trade. Calculated as a percentage of equity. Low risk = 0.5%. Medium risk = 1.0% - 1.5%. High risk = 2.0%.
 * atr_mult - multiplier that allows you to adjust the resulting size of trade and location of the stoploss.
 * atr - volatility according to the ATR indicator.
 
-* * *
+## Example
 
-Example with default script values:
+Default script values:
 
 * Equity = 1000 usd
 * Risk percent = 0.5
@@ -361,33 +362,31 @@ risk_usd = equity / 100 * risk_percent = 1000 / 100 * 0.5 = 5 usd.
 
 * Btc:
   * Atr indicator = 2267
+  * Price = 69443
   * qty = 5 / (2 * 2267) = 0,0011 btc
+  * cost = 0,0011 * 69443 = 76.58 usd
 
 * Sol:
   * Atr indicator = 9.70
+  * Price = 160.14
   * qty = 5 / (2 * 9.70) = 0,2577 sol
+  * cost = 0,2577 * 160.14 = 41.27 usd
 
 * Gala:
   * Atr indicator = 0.0038
+  * Price = 0.0379
   * qty = 5 / (2 * 0.0038) = 657 gala
+  * cost = 657 * 0.0379 = 24.93 usd
 
 * Turbo:
   * Atr indicator = 0.000293
+  * Price = 0.002444
   * qty = 5 / (2 * 0.000293) = 8532 turbo
+  * cost = 8532 * 0.002444 = 20.85 usd
   
 * * *
 
-Different volatility results in different cost - sum of usd spended on trade (qty * price):
-* Btc:
-  * 0,0011 * 69443 = 76.58 usd.
-* Sol:
-  * 0,2577 * 160.14 = 41.27 usd.
-* Gala:
-  * 657 * 0.0379 = 24.93 usd.
-* Turbo:
-  * 8532 * 0.002444 = 20.85 usd.
-
-**But all these trades have the same risk - 5 usd.**
+Different volatility results in different usd cost. **But all these trades have the same risk - 5 usd.**
 
 ## Total Risk
 
