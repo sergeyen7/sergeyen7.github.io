@@ -233,6 +233,8 @@ Main advantage of Hyperliquid:
 
 Predictive and reactive technical analysis are two approaches used by traders and analysts to make decisions in the financial markets based on historical price data and other market indicators. 
 
+> **Trend following = reactive technical analysis.**
+
 ## Predictive Technical Analysis
 
 Objective: Predict future price movements.
@@ -264,8 +266,6 @@ Methods and Tools:
 ## Conclusion
 
 Both approaches have their own strengths and weaknesses. Predictive technical analysis can provide early signals but may lead to more false positives, while reactive technical analysis is more reliable in confirming trends but may result in slower responses to market changes.
-
-> **Trend following = reactive technical analysis.**
 
 # Theory: Why it works
 
