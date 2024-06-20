@@ -260,7 +260,9 @@ Methods and Tools:
 ## Key Differences
 
 - Timing: Predictive analysis aims to forecast future price movements and trends before they happen, while reactive analysis focuses on responding to price movements and trends that have already occurred.
+  
 - Indicators: Predictive analysis uses leading indicators, which are designed to anticipate future market movements. Reactive analysis relies on lagging indicators, which confirm past trends and movements.
+  
 - Approach: Predictive analysis is more forward-looking and speculative, while reactive analysis is more conservative and based on confirmation of existing market trends.
 
 ## Conclusion
