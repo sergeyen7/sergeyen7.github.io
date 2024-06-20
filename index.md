@@ -18,7 +18,7 @@ description: Do trend following strategy works in crypto?
   
 * [Description of Hyperliquid](#description-of-hyperliquid)
 
-* [Theory: Predictive/Reactive](#theory-predictive-reactive)
+* [Theory: Predictive/Reactive](#theory-predictivereactive)
 
 * [Theory: Why it works](#theory-why-it-works)
 
