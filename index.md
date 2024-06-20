@@ -272,9 +272,7 @@ Both approaches have their own strengths and weaknesses. Predictive technical an
 
 Any trend following strategy uses a simple idea:
 
-> * **Trading with some type of stop loss.**
-> * **Trading without take profit.**
-> * **Trade closed with some type of trailing stop.**
+> * **Trading with some type of stop loss. Trading without take profit. Trade closed with some type of trailing stop.**
 
 Hmmm... Is it really that simple?
 
