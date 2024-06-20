@@ -241,8 +241,8 @@ Objective: Predict future price movements.
 
 Methods and Tools:
 - Forecasting Models
-- Patterns
-- Leading Indicators
+- Patterns: H&S, triangles, flags.
+- Leading Indicators: MACD, RSI, stochastic oscillators
 - Cycle Analysis
 - Elliott Wave Theory
 
@@ -252,7 +252,7 @@ Objective: Respond to current market conditions.
 
 Methods and Tools:
 - Price Action
-- Lagging Indicators
+- Lagging Indicators: SMA, EMA, BB, DC
 - Support and Resistance
 - Volume Analysis
 - Confirmation Signals
