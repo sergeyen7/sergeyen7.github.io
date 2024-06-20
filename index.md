@@ -254,7 +254,6 @@ Methods and Tools:
 - Price Action.
 - Lagging Indicators: SMA, EMA, BB, DC.
 - Support and Resistance.
-- Volume Analysis.
 - Confirmation Signals.
 
 ## Key Differences
