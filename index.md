@@ -18,6 +18,8 @@ description: Do trend following strategy works in crypto?
   
 * [Description of Hyperliquid](#description-of-hyperliquid)
 
+* [Theory: Predictive/Reactive](#theory-predictive-reactive)
+
 * [Theory: Why it works](#theory-why-it-works)
 
 * [Theory: Risk management](#theory-risk-management)
@@ -226,6 +228,44 @@ Disadvantages of Hyperliquid:
 
 Main advantage of Hyperliquid:
 * it works on smartcontracts.
+
+# Theory: Predictive/reactive
+
+Predictive and reactive technical analysis are two approaches used by traders and analysts to make decisions in the financial markets based on historical price data and other market indicators. 
+
+## Predictive
+
+Objective: Predict future price movements.
+
+Methods and Tools:
+- Forecasting Models
+- Patterns
+- Leading Indicators
+- Cycle Analysis
+- Elliott Wave Theory
+
+## Reactive Technical Analysis
+
+Objective: Respond to current market conditions.
+
+Methods and Tools:
+- Price Action
+- Lagging Indicators
+- Support and Resistance
+- Volume Analysis
+- Confirmation Signals
+
+## Key Differences
+
+- Timing: Predictive analysis aims to forecast future price movements and trends before they happen, while reactive analysis focuses on responding to price movements and trends that have already occurred.
+- Indicators: Predictive analysis uses leading indicators, which are designed to anticipate future market movements. Reactive analysis relies on lagging indicators, which confirm past trends and movements.
+- Approach: Predictive analysis is more forward-looking and speculative, while reactive analysis is more conservative and based on confirmation of existing market trends.
+
+## Conclusion
+
+Both approaches have their own strengths and weaknesses. Predictive technical analysis can provide early signals but may lead to more false positives, while reactive technical analysis is more reliable in confirming trends but may result in slower responses to market changes.
+
+> **Trend following = reactive technical analysis.**
 
 # Theory: Why it works
 
