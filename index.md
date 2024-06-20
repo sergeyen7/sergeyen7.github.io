@@ -233,7 +233,7 @@ Main advantage of Hyperliquid:
 
 Predictive and reactive technical analysis are two approaches used by traders and analysts to make decisions in the financial markets based on historical price data and other market indicators. 
 
-## Predictive
+## Predictive Technical Analysis
 
 Objective: Predict future price movements.
 
