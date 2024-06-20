@@ -240,22 +240,22 @@ Predictive and reactive technical analysis are two approaches used by traders an
 Objective: Predict future price movements.
 
 Methods and Tools:
-- Forecasting Models
+- Forecasting Models.
 - Patterns: H&S, triangles, flags.
-- Leading Indicators: MACD, RSI, stochastic oscillators
-- Cycle Analysis
-- Elliott Wave Theory
+- Leading Indicators: MACD, RSI, stochastic oscillators.
+- Cycle Analysis.
+- Elliott Wave Theory.
 
 ## Reactive Technical Analysis
 
 Objective: Respond to current market conditions.
 
 Methods and Tools:
-- Price Action
-- Lagging Indicators: SMA, EMA, BB, DC
-- Support and Resistance
-- Volume Analysis
-- Confirmation Signals
+- Price Action.
+- Lagging Indicators: SMA, EMA, BB, DC.
+- Support and Resistance.
+- Volume Analysis.
+- Confirmation Signals.
 
 ## Key Differences
 
@@ -410,14 +410,14 @@ risk_usd = 1000 / 100 * 0.5 = 5 usd
 * Btc:
   * Atr indicator = 2267
   * Price = 69443
-  * qty = 5 / (2 * 2267) = 0,0011 btc
-  * cost = 0,0011 * 69443 = 76.58 usd
+  * qty = 5 / (2 * 2267) = 0.0011 btc
+  * cost = 0.0011 * 69443 = 76.58 usd
 
 * Sol:
   * Atr indicator = 9.70
   * Price = 160.14
-  * qty = 5 / (2 * 9.70) = 0,2577 sol
-  * cost = 0,2577 * 160.14 = 41.27 usd
+  * qty = 5 / (2 * 9.70) = 0.2577 sol
+  * cost = 0.2577 * 160.14 = 41.27 usd
 
 * Turbo:
   * Atr indicator = 0.000293
