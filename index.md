@@ -84,8 +84,6 @@ It's open-source Pine script V5.
 * Permit stoploss: Trailing;
 * Orders number: 5;
 * Risk % of Equity: 1.
-* Increase size: if theory qty > position qty.
-* Increase size: if cost usd < pnl usd.
 
 ## Results
 
