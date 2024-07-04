@@ -353,7 +353,7 @@ Total longterm result is profitable.
 
 ## Example in crypto
 
-The same thing can be seen in crypto. If we use the Tradingview script on a Bitcoin all time history index, we get this Equity chart:
+The same thing can be seen in crypto. If we use the Tradingview script on a Bitcoin all time history index, (disabled 'additional theory' setting, disabled 'additional cost' setting), we get this Equity chart:
 
 ![Strategy Tester on Tradingview](/images/tester.png)
 
