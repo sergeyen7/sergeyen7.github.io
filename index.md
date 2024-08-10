@@ -85,7 +85,7 @@ It's open-source Pine script V5.
 * Orders number: 5;
 * Add theory: Enabled;
 * Add cost: Enabled;
-* Risk % of Equity: 1.
+* Risk % of Equity: 0.5.
 
 ## Results
 
