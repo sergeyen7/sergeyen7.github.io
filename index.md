@@ -84,7 +84,7 @@ It's open-source Pine script V5.
 * Permit stoploss: Trailing;
 * Orders number: 5;
 * Additional theory: Enabled;
-* Additional cost: Enabled:
+* Additional cost: Enabled;
 * Other settings: default.
 
 ## Results
