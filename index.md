@@ -83,7 +83,9 @@ It's open-source Pine script V5.
 * Length: 20/10;
 * Permit stoploss: Trailing;
 * Orders number: 5;
-* Risk % of Equity: 0.5.
+* Additional theory: Enabled;
+* Additional cost: Enabled:
+* Other settings: default.
 
 ## Results
 
