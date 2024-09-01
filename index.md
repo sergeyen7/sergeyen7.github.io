@@ -99,6 +99,7 @@ It's open-source Pine script V5.
 | 2024 Jun 1 |           3809 |          -1484 |
 | 2024 Jul 1 |           4204 |            396 |
 | 2024 Aug 1 |           3287 |          -1085 |
+| 2024 Sep 1 |           2095 |          -1152 |
 
 # Description of script
 
