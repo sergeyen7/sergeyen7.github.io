@@ -100,6 +100,7 @@ It's open-source Pine script V5.
 | 2024 Jul 1 |           4204 |            396 |
 | 2024 Aug 1 |           3287 |          -1085 |
 | 2024 Sep 1 |           2095 |          -1152 |
+| 2024 Oct 1 |           3169 |           1068 |
 
 # Description of script
 
