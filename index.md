@@ -67,7 +67,7 @@ It's open-source Pine script V5.
 
 # Vault monthly results
 
-Trading results can be seen at the link. You don't need to register or connect a wallet to view them.
+Trading results can be seen at the link. You don't need to register or connect a wallet to view them. More details about vaults are given below, in the description of Hyperliquid.
 
 [Vault in hyperliquid](https://app.hyperliquid.xyz/vaults/0x54094fd5077de413017b5e83da0b587043b55144).
 
