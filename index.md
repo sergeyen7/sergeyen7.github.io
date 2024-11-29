@@ -9,8 +9,6 @@ description: Do trend following strategy works in crypto?
 * [What is trend following?](#what-is-trend-following)
   
 * [Idea and script](#idea-and-script)
-  
-* [How to use it](#how-to-use-it)
 
 * [Vault monthly results](#vault-monthly-results)
   
@@ -66,16 +64,6 @@ I coded this as a script in Tradingview:
 It's open-source Pine script V5.
 
 ![Script on Tradingview](/images/script.png)
-
-# How to use it
-
-* You can use the script for free for your trading as you wish - on any exchange with perpetual futures or spot. My referral link for crypto exchange Hyperliquid:
-
-     [app.hyperliquid.xyz/join/SERGEYEN](https://app.hyperliquid.xyz/join/SERGEYEN).
-
-* You can invest your money in my Hyperliquid vault - if you clearly understand theory of trend following described in next chapters:
-
-     [Vault Donchian Quest Research](https://app.hyperliquid.xyz/vaults/0x54094fd5077de413017b5e83da0b587043b55144).
 
 # Vault monthly results
 
