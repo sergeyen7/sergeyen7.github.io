@@ -67,6 +67,10 @@ It's open-source Pine script V5.
 
 # Vault monthly results
 
+## Address of trading vault
+
+[Vault in hyperliquid](https://app.hyperliquid.xyz/vaults/0x54094fd5077de413017b5e83da0b587043b55144).
+
 ## Settings
 * Length: 20/10;
 * Permit stoploss: Trailing;
