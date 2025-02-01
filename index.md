@@ -96,6 +96,7 @@ Trading results can be seen at the link. You don't need to register or connect a
 | 2024 Nov 1 |           1559 |           -568 |
 | 2024 Dec 1 |           2289 |            713 |
 | 2025 Jan 1 |           2056 |           -161 |
+| 2025 Feb 1 |           2079 |             -3 |
 
 # Description of script
 
