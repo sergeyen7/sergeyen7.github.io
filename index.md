@@ -98,6 +98,8 @@ Trading results can be seen at the link. You don't need to register or connect a
 | 2025 Jan 1 |           2056 |           -161 |
 | 2025 Feb 1 |           2079 |             -3 |
 | 2025 Mar 1 |           2116 |             31 |
+| 2025 Apr 1 |           1785 |           -312 |
+| 2025 May 1 |           2715 |            938 |
 
 # Description of script
 
