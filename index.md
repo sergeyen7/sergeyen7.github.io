@@ -100,6 +100,7 @@ Trading results can be seen at the link. You don't need to register or connect a
 | 2025 Mar 1 |           2116 |             31 |
 | 2025 Apr 1 |           1785 |           -312 |
 | 2025 May 1 |           2715 |            938 |
+| 2025 Jun 1 |           1974 |           -631 |
 
 # Description of script
 
